@@ -31,6 +31,17 @@ See [architecture](docs/architecture.md), [data dictionary](docs/data_dictionary
 - [Pytest Cases and Screenshots](pytest%20cases/) – Test case evidence and screenshots.
 - [Workforce Database](workforce.db) – SQLite database containing the project tables and synthetic workforce data.
  Workforce.db to review or to see the tables
+
+## Database and Data Management
+
+The application uses SQLite as its primary database for storing and managing workforce intelligence data.
+
+- **SQLite Database (`workforce.db`):** The complete database is included in the repository and contains 14 tables with synthetic workforce data. The database file is approximately 17.5 MB.
+- **Database Exports (`exports/`):** Contains exported data from all 14 database tables for convenient access and inspection.
+
+**Data Accessibility:** The `exports/` folder provides an easy way to review and explore the data from all 14 tables individually, without downloading the complete SQLite database.
+
+**Note:** GitHub does not display the contents of binary database files directly in the browser. The `workforce.db` file can be downloaded and inspected using an SQLite-compatible database viewer.
  
 ## Local setup (Windows PowerShell)
 
