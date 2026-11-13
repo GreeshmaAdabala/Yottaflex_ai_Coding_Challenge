@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Skill gaps{% endblock %}
+{% block page_heading %}Skill gaps &amp; recommendations{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>Demand-backed workforce actions</h2><p>Only gaps traceable to a project demand record produce a recommendation.</p></div><span class="date-pill">{{ gaps|length }} open gaps · 8-week window</span></section>
+<section class="panel"><div class="panel-heading"><div><h2>Skill and capacity gaps</h2><p>Required proficiency, fresh verification and available capacity are considered.</p></div></div>
+  <div class="table-scroll"><table><thead><tr><th>Project</th><th>Role</th><th>Skill</th><th>Gap type</th><th>Shortage</th><th>Demand record</th></tr></thead><tbody>
+  {% for item in gaps %}<tr><td>{{ item.project.name }}<small>{{ item.project_id }}</small></td><td>{{ item.role.name }}</td><td>{{ item.skill.name }}</td><td><span class="tag tag-critical">{{ item.gap.gap_type|replace('_',' ') }}</span></td><td>{{ item.gap.shortage }}</td><td><code>{{ item.gap.demand_id }}</code></td></tr>{% else %}<tr><td colspan="6" class="empty-state">No gaps were found in this demand window.</td></tr>{% endfor %}
+  </tbody></table></div>
+</section>
+<section class="panel"><div class="panel-heading"><div><h2>Explainable recommendations</h2><p>Reason, calculations and assumptions are included with each action.</p></div></div>
+  <div class="recommendation-grid">{% for item in recommendations %}<article class="recommendation-card"><div class="recommendation-head"><span class="tag tag-active">{{ item.action }}</span><span>{{ item.project_id }}</span></div><h3>{{ item.project_name }}</h3><p>{{ item.reason }}</p><dl><dt>Role / skill</dt><dd>{{ item.role_id }} · {{ item.skill_id }}</dd><dt>Shortage</dt><dd>{{ item.shortage }}</dd><dt>Calculation</dt><dd>{{ item.supporting_calculation }}</dd><dt>Assumption</dt><dd>{{ item.assumption }}</dd></dl></article>{% else %}<p class="empty-state">No recommendations are needed for this window.</p>{% endfor %}</div>
+</section>
+{% endblock %}

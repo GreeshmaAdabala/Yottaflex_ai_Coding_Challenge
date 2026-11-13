@@ -1,0 +1,4502 @@
+[
+  {
+    "project_id": "PRJ-2026-000001",
+    "name": "Future-proofed upward-trending knowledgebase Initiative 001",
+    "client": "Allen-Brandt",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-30",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000002",
+    "name": "Fully-configurable high-level ability Initiative 002",
+    "client": "Mccall and Sons",
+    "start_date": "2026-04-23",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000003",
+    "name": "Customizable asynchronous collaboration Initiative 003",
+    "client": "Smith-Walters",
+    "start_date": "2026-08-13",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000004",
+    "name": "Face-to-face systematic standardization Initiative 004",
+    "client": "Taylor-Zhang",
+    "start_date": "2026-05-07",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000005",
+    "name": "Optional stable flexibility Initiative 005",
+    "client": "Fitzgerald Ltd",
+    "start_date": "2026-01-01",
+    "end_date": "2026-05-13",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000006",
+    "name": "Ergonomic 6thgeneration projection Initiative 006",
+    "client": "Oliver LLC",
+    "start_date": "2026-05-28",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000007",
+    "name": "Versatile coherent hub Initiative 007",
+    "client": "Kelly-Smith",
+    "start_date": "2026-02-19",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000008",
+    "name": "Compatible full-range groupware Initiative 008",
+    "client": "Weaver LLC",
+    "start_date": "2026-03-26",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000009",
+    "name": "Self-enabling directional methodology Initiative 009",
+    "client": "Montgomery, Nichols and White",
+    "start_date": "2026-02-19",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000010",
+    "name": "Assimilated non-volatile pricing structure Initiative 010",
+    "client": "Riddle, Barnett and Jennings",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000011",
+    "name": "Future-proofed composite data-warehouse Initiative 011",
+    "client": "Myers Inc",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000012",
+    "name": "Horizontal exuding customer loyalty Initiative 012",
+    "client": "Miller LLC",
+    "start_date": "2026-09-03",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000013",
+    "name": "Profound intermediate database Initiative 013",
+    "client": "Flores Inc",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000014",
+    "name": "Exclusive methodical neural-net Initiative 014",
+    "client": "Johnson and Sons",
+    "start_date": "2026-02-19",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000015",
+    "name": "Function-based motivating Internet solution Initiative 015",
+    "client": "Hicks-Foley",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000016",
+    "name": "Devolved background hub Initiative 016",
+    "client": "Huffman, Porter and Levine",
+    "start_date": "2026-07-23",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000017",
+    "name": "Organized logistical portal Initiative 017",
+    "client": "Allen-Romero",
+    "start_date": "2026-07-09",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000018",
+    "name": "Self-enabling web-enabled paradigm Initiative 018",
+    "client": "Solis, Taylor and Cook",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000019",
+    "name": "Grass-roots encompassing challenge Initiative 019",
+    "client": "Ross, Thomas and Booker",
+    "start_date": "2026-04-23",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000020",
+    "name": "Quality-focused high-level artificial intelligence Initiative 020",
+    "client": "Jacobs-Gonzalez",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000021",
+    "name": "Robust composite policy Initiative 021",
+    "client": "Allen-Martinez",
+    "start_date": "2026-02-26",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000022",
+    "name": "Intuitive attitude-oriented parallelism Initiative 022",
+    "client": "Burch-Smith",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-15",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000023",
+    "name": "Secured holistic flexibility Initiative 023",
+    "client": "Allen-Bell",
+    "start_date": "2026-01-22",
+    "end_date": "2026-06-24",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000024",
+    "name": "Pre-emptive impactful implementation Initiative 024",
+    "client": "Lee LLC",
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000025",
+    "name": "Fully-configurable 24/7 Graphical User Interface Initiative 025",
+    "client": "Wright, Boyd and Camacho",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000026",
+    "name": "Face-to-face actuating strategy Initiative 026",
+    "client": "Burton Ltd",
+    "start_date": "2026-09-24",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000027",
+    "name": "Open-source foreground website Initiative 027",
+    "client": "Harrison, Kirby and Edwards",
+    "start_date": "2026-05-14",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000028",
+    "name": "Streamlined demand-driven open architecture Initiative 028",
+    "client": "Miller Ltd",
+    "start_date": "2026-05-21",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000029",
+    "name": "Ameliorated stable methodology Initiative 029",
+    "client": "Salas-Mccormick",
+    "start_date": "2026-03-12",
+    "end_date": "2026-05-13",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000030",
+    "name": "Synergized even-keeled software Initiative 030",
+    "client": "Baxter Ltd",
+    "start_date": "2026-03-12",
+    "end_date": "2026-04-22",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000031",
+    "name": "Integrated upward-trending projection Initiative 031",
+    "client": "Webb and Sons",
+    "start_date": "2026-01-01",
+    "end_date": "2026-07-08",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000032",
+    "name": "Synergized explicit methodology Initiative 032",
+    "client": "Bird and Sons",
+    "start_date": "2026-01-29",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000033",
+    "name": "Networked intangible moratorium Initiative 033",
+    "client": "Hill, Tran and King",
+    "start_date": "2026-01-08",
+    "end_date": "2026-04-15",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000034",
+    "name": "Managed 6thgeneration flexibility Initiative 034",
+    "client": "Snyder-Barnes",
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000035",
+    "name": "Customizable optimizing Graphic Interface Initiative 035",
+    "client": "Jones, Taylor and Baker",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000036",
+    "name": "Innovative bifurcated knowledgebase Initiative 036",
+    "client": "Hayes-Dunn",
+    "start_date": "2026-02-19",
+    "end_date": "2026-04-01",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000037",
+    "name": "Innovative systematic groupware Initiative 037",
+    "client": "Jones-Roth",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000038",
+    "name": "Streamlined attitude-oriented customer loyalty Initiative 038",
+    "client": "Robles, Davenport and Young",
+    "start_date": "2026-05-21",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000039",
+    "name": "Balanced even-keeled matrix Initiative 039",
+    "client": "Rosales, Moss and Wilson",
+    "start_date": "2026-06-11",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000040",
+    "name": "Reactive radical customer loyalty Initiative 040",
+    "client": "Wilson-Kemp",
+    "start_date": "2026-02-05",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000041",
+    "name": "Operative national protocol Initiative 041",
+    "client": "Harris-King",
+    "start_date": "2026-06-25",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000042",
+    "name": "Team-oriented transitional superstructure Initiative 042",
+    "client": "Davis-Irwin",
+    "start_date": "2026-04-09",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000043",
+    "name": "Monitored impactful website Initiative 043",
+    "client": "Torres and Sons",
+    "start_date": "2026-04-23",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000044",
+    "name": "Profound intangible hierarchy Initiative 044",
+    "client": "Walker-Elliott",
+    "start_date": "2026-05-21",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000045",
+    "name": "Centralized leadingedge throughput Initiative 045",
+    "client": "Berry Ltd",
+    "start_date": "2026-07-16",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000046",
+    "name": "Decentralized discrete instruction set Initiative 046",
+    "client": "Hill, Rice and Page",
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000047",
+    "name": "Compatible transitional open system Initiative 047",
+    "client": "Kramer-Garcia",
+    "start_date": "2026-03-26",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000048",
+    "name": "Stand-alone foreground benchmark Initiative 048",
+    "client": "Smith PLC",
+    "start_date": "2026-01-29",
+    "end_date": "2026-04-01",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000049",
+    "name": "Programmable zero administration flexibility Initiative 049",
+    "client": "Chapman-King",
+    "start_date": "2026-04-23",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000050",
+    "name": "Cloned impactful architecture Initiative 050",
+    "client": "Rivera, Santos and Lutz",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000051",
+    "name": "Seamless contextually-based open system Initiative 051",
+    "client": "Wilkinson Inc",
+    "start_date": "2026-03-19",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000052",
+    "name": "Fully-configurable contextually-based secured line Initiative 052",
+    "client": "Smith, Wong and Freeman",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000053",
+    "name": "Balanced motivating knowledge user Initiative 053",
+    "client": "Burke-Casey",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000054",
+    "name": "Streamlined demand-driven parallelism Initiative 054",
+    "client": "Davis, Wells and Walker",
+    "start_date": "2026-04-02",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000055",
+    "name": "Switchable multi-tasking challenge Initiative 055",
+    "client": "Carter, Murphy and Montgomery",
+    "start_date": "2026-04-16",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000056",
+    "name": "Team-oriented reciprocal parallelism Initiative 056",
+    "client": "Coleman-Vaughn",
+    "start_date": "2026-01-15",
+    "end_date": "2026-04-29",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000057",
+    "name": "Open-source heuristic pricing structure Initiative 057",
+    "client": "Rich-Poole",
+    "start_date": "2026-04-16",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000058",
+    "name": "Grass-roots intangible archive Initiative 058",
+    "client": "Porter, Koch and Davidson",
+    "start_date": "2026-01-15",
+    "end_date": "2026-07-01",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000059",
+    "name": "Monitored full-range forecast Initiative 059",
+    "client": "Peterson LLC",
+    "start_date": "2026-07-16",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000060",
+    "name": "Horizontal 3rdgeneration budgetary management Initiative 060",
+    "client": "Reed, Briggs and Gray",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000061",
+    "name": "Face-to-face fault-tolerant hierarchy Initiative 061",
+    "client": "Sims PLC",
+    "start_date": "2026-07-02",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000062",
+    "name": "Reduced full-range matrix Initiative 062",
+    "client": "Peterson, Alexander and Baxter",
+    "start_date": "2026-01-01",
+    "end_date": "2026-05-06",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000063",
+    "name": "Ergonomic object-oriented focus group Initiative 063",
+    "client": "Small Inc",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000064",
+    "name": "Ameliorated national solution Initiative 064",
+    "client": "Sullivan-Richards",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-03",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000065",
+    "name": "Intuitive bottom-line help-desk Initiative 065",
+    "client": "Strong, Jackson and Lee",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000066",
+    "name": "Progressive directional hierarchy Initiative 066",
+    "client": "Hamilton and Sons",
+    "start_date": "2026-08-13",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000067",
+    "name": "Persistent client-server project Initiative 067",
+    "client": "Newton-Jenkins",
+    "start_date": "2026-01-01",
+    "end_date": "2026-02-18",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000068",
+    "name": "Stand-alone incremental core Initiative 068",
+    "client": "Holden, Green and Schmidt",
+    "start_date": "2026-01-15",
+    "end_date": "2026-02-25",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000069",
+    "name": "Proactive multimedia circuit Initiative 069",
+    "client": "Robertson Ltd",
+    "start_date": "2026-03-19",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000070",
+    "name": "Cloned non-volatile function Initiative 070",
+    "client": "Bennett, Pham and Green",
+    "start_date": "2026-07-02",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000071",
+    "name": "Focused dedicated toolset Initiative 071",
+    "client": "Allen-Gay",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000072",
+    "name": "Business-focused didactic methodology Initiative 072",
+    "client": "Holland, Kennedy and Doyle",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000073",
+    "name": "Digitized incremental alliance Initiative 073",
+    "client": "Campbell-Gordon",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-22",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000074",
+    "name": "Horizontal didactic time-frame Initiative 074",
+    "client": "Stephens Ltd",
+    "start_date": "2026-04-30",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000075",
+    "name": "Enhanced discrete paradigm Initiative 075",
+    "client": "Thornton Group",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000076",
+    "name": "Assimilated attitude-oriented matrices Initiative 076",
+    "client": "Wright Inc",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000077",
+    "name": "Reverse-engineered modular budgetary management Initiative 077",
+    "client": "Butler, Ramos and Hardy",
+    "start_date": "2026-02-26",
+    "end_date": "2026-04-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000078",
+    "name": "Monitored context-sensitive challenge Initiative 078",
+    "client": "Moore-Rangel",
+    "start_date": "2026-04-09",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000079",
+    "name": "Virtual incremental Internet solution Initiative 079",
+    "client": "York-Hahn",
+    "start_date": "2026-10-08",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000080",
+    "name": "Organized empowering algorithm Initiative 080",
+    "client": "Martinez, Steele and Wood",
+    "start_date": "2026-03-05",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000081",
+    "name": "Seamless background alliance Initiative 081",
+    "client": "Fisher-Williams",
+    "start_date": "2026-09-10",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000082",
+    "name": "Vision-oriented exuding task-force Initiative 082",
+    "client": "Spears LLC",
+    "start_date": "2026-01-01",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000083",
+    "name": "Digitized cohesive moderator Initiative 083",
+    "client": "Baker, Miller and Neal",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000084",
+    "name": "Mandatory mobile hierarchy Initiative 084",
+    "client": "Estrada, Walker and Anderson",
+    "start_date": "2026-05-21",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000085",
+    "name": "Stand-alone 3rdgeneration middleware Initiative 085",
+    "client": "Lopez Group",
+    "start_date": "2026-06-18",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000086",
+    "name": "Cross-group bifurcated hierarchy Initiative 086",
+    "client": "Larson-Waller",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-15",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000087",
+    "name": "Implemented transitional budgetary management Initiative 087",
+    "client": "Stein, Richardson and Delacruz",
+    "start_date": "2026-04-16",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000088",
+    "name": "Pre-emptive interactive groupware Initiative 088",
+    "client": "Booth, Burgess and Clark",
+    "start_date": "2026-03-26",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000089",
+    "name": "Stand-alone responsive Graphic Interface Initiative 089",
+    "client": "Clark-Brown",
+    "start_date": "2026-06-04",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000090",
+    "name": "Adaptive fault-tolerant initiative Initiative 090",
+    "client": "Burton, Lane and Johnson",
+    "start_date": "2026-07-02",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000091",
+    "name": "Extended exuding secured line Initiative 091",
+    "client": "Schultz, Smith and Hernandez",
+    "start_date": "2026-03-19",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000092",
+    "name": "Re-engineered secondary workforce Initiative 092",
+    "client": "Myers-Soto",
+    "start_date": "2026-04-30",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000093",
+    "name": "Profit-focused multi-tasking framework Initiative 093",
+    "client": "Hernandez-White",
+    "start_date": "2026-02-05",
+    "end_date": "2026-04-29",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000094",
+    "name": "Seamless reciprocal algorithm Initiative 094",
+    "client": "Rogers, Archer and White",
+    "start_date": "2026-02-12",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000095",
+    "name": "Open-architected uniform help-desk Initiative 095",
+    "client": "Owens, Fields and Moore",
+    "start_date": "2026-03-05",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000096",
+    "name": "Enhanced multi-state paradigm Initiative 096",
+    "client": "Donovan Ltd",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000097",
+    "name": "Cross-platform bi-directional projection Initiative 097",
+    "client": "Jacobs, Jones and Martinez",
+    "start_date": "2026-02-05",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000098",
+    "name": "Down-sized 4thgeneration data-warehouse Initiative 098",
+    "client": "Ford-Williams",
+    "start_date": "2026-05-28",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000099",
+    "name": "Extended clear-thinking definition Initiative 099",
+    "client": "Carter-Terry",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000100",
+    "name": "Devolved bottom-line circuit Initiative 100",
+    "client": "Garcia-Johnson",
+    "start_date": "2026-06-18",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000101",
+    "name": "Cloned exuding methodology Initiative 101",
+    "client": "Foster, Smith and Bryant",
+    "start_date": "2026-02-26",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000102",
+    "name": "Reactive client-server methodology Initiative 102",
+    "client": "Hernandez Ltd",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000103",
+    "name": "Implemented cohesive system engine Initiative 103",
+    "client": "Yates, Moore and Simpson",
+    "start_date": "2026-03-05",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000104",
+    "name": "Assimilated grid-enabled installation Initiative 104",
+    "client": "Smith-Hodges",
+    "start_date": "2026-02-12",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000105",
+    "name": "Centralized contextually-based secured line Initiative 105",
+    "client": "Lawson Inc",
+    "start_date": "2026-09-03",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000106",
+    "name": "Enhanced upward-trending encoding Initiative 106",
+    "client": "Kim-Kim",
+    "start_date": "2026-01-15",
+    "end_date": "2026-08-05",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000107",
+    "name": "Balanced tertiary pricing structure Initiative 107",
+    "client": "Walker-Carter",
+    "start_date": "2026-08-27",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000108",
+    "name": "Proactive hybrid leverage Initiative 108",
+    "client": "Vargas-Wilson",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000109",
+    "name": "Total asymmetric paradigm Initiative 109",
+    "client": "Suarez and Sons",
+    "start_date": "2026-04-30",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000110",
+    "name": "Mandatory uniform installation Initiative 110",
+    "client": "Crawford Inc",
+    "start_date": "2026-05-21",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000111",
+    "name": "Upgradable 24/7 Graphic Interface Initiative 111",
+    "client": "Ross, Torres and Munoz",
+    "start_date": "2026-08-06",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000112",
+    "name": "User-centric foreground paradigm Initiative 112",
+    "client": "Mitchell PLC",
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000113",
+    "name": "Multi-channeled 4thgeneration encryption Initiative 113",
+    "client": "Mcintosh-Lee",
+    "start_date": "2026-01-08",
+    "end_date": "2026-05-06",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000114",
+    "name": "Total modular encoding Initiative 114",
+    "client": "Smith-Kim",
+    "start_date": "2026-05-14",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000115",
+    "name": "Digitized transitional middleware Initiative 115",
+    "client": "Ramsey Group",
+    "start_date": "2026-05-07",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000116",
+    "name": "Assimilated background encryption Initiative 116",
+    "client": "Rios Ltd",
+    "start_date": "2026-07-16",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000117",
+    "name": "Proactive zero tolerance product Initiative 117",
+    "client": "Terry, Mccann and Jordan",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000118",
+    "name": "Polarized directional toolset Initiative 118",
+    "client": "Jones-Cardenas",
+    "start_date": "2026-04-02",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000119",
+    "name": "Organized context-sensitive benchmark Initiative 119",
+    "client": "Porter-Mccoy",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000120",
+    "name": "Advanced real-time synergy Initiative 120",
+    "client": "Reynolds, Howell and Huffman",
+    "start_date": "2026-01-22",
+    "end_date": "2026-03-18",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000121",
+    "name": "Universal zero administration system engine Initiative 121",
+    "client": "Morgan Inc",
+    "start_date": "2026-04-30",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000122",
+    "name": "Organic maximized architecture Initiative 122",
+    "client": "Haynes-Wells",
+    "start_date": "2026-02-26",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000123",
+    "name": "Diverse intangible groupware Initiative 123",
+    "client": "Lucas-Smith",
+    "start_date": "2026-01-15",
+    "end_date": "2026-03-11",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000124",
+    "name": "Balanced attitude-oriented definition Initiative 124",
+    "client": "Nelson Group",
+    "start_date": "2026-06-04",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000125",
+    "name": "Monitored logistical emulation Initiative 125",
+    "client": "Harris-Sullivan",
+    "start_date": "2026-05-28",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000126",
+    "name": "De-engineered incremental algorithm Initiative 126",
+    "client": "Malone, Torres and Garrison",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000127",
+    "name": "Public-key multi-state throughput Initiative 127",
+    "client": "Oneal, Martin and Summers",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000128",
+    "name": "Operative executive firmware Initiative 128",
+    "client": "Pierce-Paul",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000129",
+    "name": "Organized asymmetric adapter Initiative 129",
+    "client": "Eaton and Sons",
+    "start_date": "2026-08-27",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000130",
+    "name": "Face-to-face zero administration project Initiative 130",
+    "client": "Morrow-Vargas",
+    "start_date": "2026-04-16",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000131",
+    "name": "Streamlined well-modulated website Initiative 131",
+    "client": "Austin, Brown and Thompson",
+    "start_date": "2026-02-05",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000132",
+    "name": "Assimilated uniform task-force Initiative 132",
+    "client": "Shelton, Thompson and Hall",
+    "start_date": "2026-10-08",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000133",
+    "name": "Fundamental intermediate open architecture Initiative 133",
+    "client": "Hall-Castro",
+    "start_date": "2026-05-28",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000134",
+    "name": "Realigned zero administration parallelism Initiative 134",
+    "client": "Oliver, Atkins and Wallace",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000135",
+    "name": "Reduced neutral software Initiative 135",
+    "client": "Foley PLC",
+    "start_date": "2026-08-06",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000136",
+    "name": "Realigned uniform concept Initiative 136",
+    "client": "Harrington, Huang and Schultz",
+    "start_date": "2026-04-23",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000137",
+    "name": "User-centric logistical archive Initiative 137",
+    "client": "Avery-Welch",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000138",
+    "name": "Open-architected interactive open system Initiative 138",
+    "client": "Moss-Brown",
+    "start_date": "2026-02-19",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000139",
+    "name": "Cross-group content-based approach Initiative 139",
+    "client": "Sanders, Jackson and Williams",
+    "start_date": "2026-02-26",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000140",
+    "name": "De-engineered scalable installation Initiative 140",
+    "client": "Wilson Inc",
+    "start_date": "2026-05-07",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000141",
+    "name": "Grass-roots bifurcated complexity Initiative 141",
+    "client": "Davis-Turner",
+    "start_date": "2026-01-22",
+    "end_date": "2026-08-05",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000142",
+    "name": "Integrated value-added Graphic Interface Initiative 142",
+    "client": "Davis-Roberson",
+    "start_date": "2026-07-23",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000143",
+    "name": "Mandatory executive toolset Initiative 143",
+    "client": "Smith, Hines and Davis",
+    "start_date": "2026-04-30",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000144",
+    "name": "Integrated foreground complexity Initiative 144",
+    "client": "Bradford LLC",
+    "start_date": "2026-05-14",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000145",
+    "name": "Front-line transitional leverage Initiative 145",
+    "client": "Smith-Williams",
+    "start_date": "2026-02-19",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000146",
+    "name": "Total motivating contingency Initiative 146",
+    "client": "Olson-Nguyen",
+    "start_date": "2026-02-12",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000147",
+    "name": "Devolved system-worthy utilization Initiative 147",
+    "client": "Elliott-Torres",
+    "start_date": "2026-07-23",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000148",
+    "name": "Visionary high-level attitude Initiative 148",
+    "client": "Mcfarland PLC",
+    "start_date": "2026-05-21",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000149",
+    "name": "Persevering client-driven definition Initiative 149",
+    "client": "Peters Inc",
+    "start_date": "2026-04-23",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000150",
+    "name": "Upgradable local projection Initiative 150",
+    "client": "Jensen, Vasquez and Lloyd",
+    "start_date": "2026-07-30",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000151",
+    "name": "Persevering actuating synergy Initiative 151",
+    "client": "Warner-Lane",
+    "start_date": "2026-04-23",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000152",
+    "name": "Universal systemic knowledgebase Initiative 152",
+    "client": "Gutierrez-Williams",
+    "start_date": "2026-01-22",
+    "end_date": "2026-05-27",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000153",
+    "name": "Secured interactive knowledge user Initiative 153",
+    "client": "Lowe Ltd",
+    "start_date": "2026-09-17",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000154",
+    "name": "Progressive web-enabled capacity Initiative 154",
+    "client": "Gonzalez-Taylor",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000155",
+    "name": "Progressive fault-tolerant algorithm Initiative 155",
+    "client": "Rogers LLC",
+    "start_date": "2026-01-15",
+    "end_date": "2026-04-22",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000156",
+    "name": "Optimized next generation data-warehouse Initiative 156",
+    "client": "Mccormick, Cook and Thomas",
+    "start_date": "2026-03-26",
+    "end_date": "2026-05-06",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000157",
+    "name": "Digitized intangible middleware Initiative 157",
+    "client": "Ortiz-Hicks",
+    "start_date": "2026-02-19",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000158",
+    "name": "Total composite Local Area Network Initiative 158",
+    "client": "Hooper PLC",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000159",
+    "name": "Optional stable capability Initiative 159",
+    "client": "Bauer LLC",
+    "start_date": "2026-02-12",
+    "end_date": "2026-05-20",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000160",
+    "name": "Virtual tangible synergy Initiative 160",
+    "client": "Rowe-Willis",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000161",
+    "name": "Stand-alone human-resource flexibility Initiative 161",
+    "client": "Rodriguez-Winters",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000162",
+    "name": "Quality-focused secondary Graphic Interface Initiative 162",
+    "client": "Williams Inc",
+    "start_date": "2026-03-19",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000163",
+    "name": "Reactive global architecture Initiative 163",
+    "client": "Martinez, Ferguson and Walker",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000164",
+    "name": "Reduced zero-defect ability Initiative 164",
+    "client": "Bishop Inc",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000165",
+    "name": "Switchable incremental conglomeration Initiative 165",
+    "client": "Macdonald, Benton and Robles",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000166",
+    "name": "Horizontal hybrid pricing structure Initiative 166",
+    "client": "Cisneros, Deleon and Woodward",
+    "start_date": "2026-07-02",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000167",
+    "name": "Multi-channeled even-keeled service-desk Initiative 167",
+    "client": "Simmons-Walker",
+    "start_date": "2026-06-25",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000168",
+    "name": "Distributed zero administration hub Initiative 168",
+    "client": "Barry LLC",
+    "start_date": "2026-05-21",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000169",
+    "name": "Decentralized composite methodology Initiative 169",
+    "client": "Mullins Ltd",
+    "start_date": "2026-09-17",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000170",
+    "name": "Reactive zero tolerance complexity Initiative 170",
+    "client": "Yang, Lucas and Roberts",
+    "start_date": "2026-05-28",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000171",
+    "name": "Upgradable coherent hub Initiative 171",
+    "client": "Holland, Mcclain and Simmons",
+    "start_date": "2026-02-26",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000172",
+    "name": "Reverse-engineered actuating array Initiative 172",
+    "client": "Walker PLC",
+    "start_date": "2026-01-01",
+    "end_date": "2026-07-15",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000173",
+    "name": "Multi-tiered well-modulated time-frame Initiative 173",
+    "client": "Walker and Sons",
+    "start_date": "2026-03-26",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000174",
+    "name": "Optimized 24/7 throughput Initiative 174",
+    "client": "Wang LLC",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000175",
+    "name": "Self-enabling context-sensitive contingency Initiative 175",
+    "client": "Pope, Johnson and Murray",
+    "start_date": "2026-02-05",
+    "end_date": "2026-03-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000176",
+    "name": "Right-sized global frame Initiative 176",
+    "client": "Bonilla, Anderson and Brown",
+    "start_date": "2026-08-27",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000177",
+    "name": "Devolved secondary conglomeration Initiative 177",
+    "client": "Newman Ltd",
+    "start_date": "2026-06-11",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000178",
+    "name": "Upgradable bottom-line utilization Initiative 178",
+    "client": "Hart, Maxwell and Poole",
+    "start_date": "2026-03-26",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000179",
+    "name": "Persevering analyzing definition Initiative 179",
+    "client": "Johnson, Perry and Clayton",
+    "start_date": "2026-06-11",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000180",
+    "name": "Open-source intermediate knowledge user Initiative 180",
+    "client": "Howard Group",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000181",
+    "name": "Team-oriented radical interface Initiative 181",
+    "client": "Jones, Williams and Soto",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000182",
+    "name": "Digitized well-modulated customer loyalty Initiative 182",
+    "client": "Martinez, Baker and Brooks",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000183",
+    "name": "Quality-focused eco-centric data-warehouse Initiative 183",
+    "client": "Thomas-Foster",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000184",
+    "name": "Customer-focused tertiary structure Initiative 184",
+    "client": "Henderson-Brooks",
+    "start_date": "2026-02-26",
+    "end_date": "2026-04-22",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000185",
+    "name": "Mandatory client-server system engine Initiative 185",
+    "client": "Hester, Moore and Eaton",
+    "start_date": "2026-09-03",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000186",
+    "name": "Mandatory real-time implementation Initiative 186",
+    "client": "Wolfe, Blankenship and Diaz",
+    "start_date": "2026-07-02",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000187",
+    "name": "Grass-roots client-driven synergy Initiative 187",
+    "client": "Mills-Miller",
+    "start_date": "2026-08-06",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000188",
+    "name": "Face-to-face coherent flexibility Initiative 188",
+    "client": "Green, Costa and Gardner",
+    "start_date": "2026-05-28",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000189",
+    "name": "Cross-platform dedicated Graphical User Interface Initiative 189",
+    "client": "White-Baldwin",
+    "start_date": "2026-03-05",
+    "end_date": "2026-04-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000190",
+    "name": "Programmable solution-oriented concept Initiative 190",
+    "client": "Waller-Carlson",
+    "start_date": "2026-05-28",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000191",
+    "name": "Organic explicit Graphic Interface Initiative 191",
+    "client": "Barnes-Small",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000192",
+    "name": "Stand-alone object-oriented monitoring Initiative 192",
+    "client": "Horton PLC",
+    "start_date": "2026-02-26",
+    "end_date": "2026-04-22",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000193",
+    "name": "Ergonomic dynamic website Initiative 193",
+    "client": "Johnston-Bennett",
+    "start_date": "2026-01-15",
+    "end_date": "2026-07-08",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000194",
+    "name": "Public-key asynchronous throughput Initiative 194",
+    "client": "Martinez-Robinson",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-22",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000195",
+    "name": "Triple-buffered actuating capacity Initiative 195",
+    "client": "Jordan Ltd",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000196",
+    "name": "Programmable mobile utilization Initiative 196",
+    "client": "Gray, Thornton and Parrish",
+    "start_date": "2026-03-05",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000197",
+    "name": "Implemented 3rdgeneration encryption Initiative 197",
+    "client": "Pitts Inc",
+    "start_date": "2026-06-18",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000198",
+    "name": "Vision-oriented dedicated collaboration Initiative 198",
+    "client": "Anderson, Serrano and Scott",
+    "start_date": "2026-04-30",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000199",
+    "name": "Persevering transitional parallelism Initiative 199",
+    "client": "Poole, Pratt and Stark",
+    "start_date": "2026-10-29",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000200",
+    "name": "Programmable 3rdgeneration focus group Initiative 200",
+    "client": "Anderson Ltd",
+    "start_date": "2026-04-02",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000201",
+    "name": "Visionary attitude-oriented strategy Initiative 201",
+    "client": "Chapman, Terry and Watson",
+    "start_date": "2026-10-29",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000202",
+    "name": "Intuitive non-volatile synergy Initiative 202",
+    "client": "Medina-Jones",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-04",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000203",
+    "name": "Fundamental mobile moderator Initiative 203",
+    "client": "Clark-Miller",
+    "start_date": "2026-10-15",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000204",
+    "name": "Secured incremental function Initiative 204",
+    "client": "Barber-Garcia",
+    "start_date": "2026-03-26",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000205",
+    "name": "Fundamental fault-tolerant initiative Initiative 205",
+    "client": "Brooks Group",
+    "start_date": "2026-01-22",
+    "end_date": "2026-06-17",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000206",
+    "name": "Reduced executive initiative Initiative 206",
+    "client": "Schneider and Sons",
+    "start_date": "2026-07-09",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000207",
+    "name": "Upgradable client-driven frame Initiative 207",
+    "client": "Warner, Snyder and Vazquez",
+    "start_date": "2026-07-30",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000208",
+    "name": "Assimilated tertiary capability Initiative 208",
+    "client": "Anderson Group",
+    "start_date": "2026-08-20",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000209",
+    "name": "Open-source bandwidth-monitored success Initiative 209",
+    "client": "Knapp-Cross",
+    "start_date": "2026-04-09",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000210",
+    "name": "Digitized analyzing migration Initiative 210",
+    "client": "Wiley-Herrera",
+    "start_date": "2026-04-30",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000211",
+    "name": "Up-sized eco-centric framework Initiative 211",
+    "client": "Mckenzie, Cooper and Harrison",
+    "start_date": "2026-05-28",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000212",
+    "name": "Devolved multi-tasking knowledge user Initiative 212",
+    "client": "Jordan, Ramirez and Moss",
+    "start_date": "2026-02-12",
+    "end_date": "2026-05-13",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000213",
+    "name": "Ameliorated modular benchmark Initiative 213",
+    "client": "Moyer, Klein and Meza",
+    "start_date": "2026-04-16",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000214",
+    "name": "Expanded exuding definition Initiative 214",
+    "client": "Valencia-Stewart",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000215",
+    "name": "Phased exuding website Initiative 215",
+    "client": "Sweeney Ltd",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000216",
+    "name": "Ergonomic directional approach Initiative 216",
+    "client": "Cowan-Watkins",
+    "start_date": "2026-06-04",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000217",
+    "name": "Future-proofed stable leverage Initiative 217",
+    "client": "Sanders PLC",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000218",
+    "name": "Object-based background success Initiative 218",
+    "client": "Shelton and Sons",
+    "start_date": "2026-01-01",
+    "end_date": "2026-04-22",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000219",
+    "name": "Horizontal multi-tasking data-warehouse Initiative 219",
+    "client": "Simmons-Page",
+    "start_date": "2026-05-21",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000220",
+    "name": "Synchronized systematic workforce Initiative 220",
+    "client": "Hamilton-Gill",
+    "start_date": "2026-04-02",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000221",
+    "name": "Cross-group needs-based open system Initiative 221",
+    "client": "Mendoza Group",
+    "start_date": "2026-05-14",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000222",
+    "name": "Front-line cohesive pricing structure Initiative 222",
+    "client": "Thomas Group",
+    "start_date": "2026-01-01",
+    "end_date": "2026-02-18",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000223",
+    "name": "Implemented attitude-oriented framework Initiative 223",
+    "client": "Woods PLC",
+    "start_date": "2026-04-16",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000224",
+    "name": "User-centric systemic encryption Initiative 224",
+    "client": "Harris-Fritz",
+    "start_date": "2026-04-02",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000225",
+    "name": "Re-contextualized web-enabled encoding Initiative 225",
+    "client": "Marsh, Bell and Daniels",
+    "start_date": "2026-03-12",
+    "end_date": "2026-05-13",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000226",
+    "name": "Face-to-face attitude-oriented migration Initiative 226",
+    "client": "Goodman LLC",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000227",
+    "name": "Self-enabling composite instruction set Initiative 227",
+    "client": "Pena PLC",
+    "start_date": "2026-04-23",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000228",
+    "name": "User-centric value-added moratorium Initiative 228",
+    "client": "Anderson Group",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000229",
+    "name": "Reactive multimedia core Initiative 229",
+    "client": "Edwards and Sons",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000230",
+    "name": "Stand-alone disintermediate algorithm Initiative 230",
+    "client": "Nolan, Pittman and Poole",
+    "start_date": "2026-08-20",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000231",
+    "name": "Right-sized optimizing open system Initiative 231",
+    "client": "Buchanan Ltd",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000232",
+    "name": "Multi-channeled 4thgeneration analyzer Initiative 232",
+    "client": "Elliott, Jennings and Thompson",
+    "start_date": "2026-01-08",
+    "end_date": "2026-05-06",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000233",
+    "name": "Self-enabling optimizing project Initiative 233",
+    "client": "Washington Inc",
+    "start_date": "2026-07-02",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000234",
+    "name": "Re-contextualized encompassing task-force Initiative 234",
+    "client": "Rodriguez Ltd",
+    "start_date": "2026-01-08",
+    "end_date": "2026-06-03",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000235",
+    "name": "Profit-focused fresh-thinking customer loyalty Initiative 235",
+    "client": "Armstrong-Turner",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000236",
+    "name": "Multi-tiered intermediate standardization Initiative 236",
+    "client": "Williams, Sanchez and Wolf",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000237",
+    "name": "Secured human-resource secured line Initiative 237",
+    "client": "Saunders Group",
+    "start_date": "2026-06-18",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000238",
+    "name": "Realigned holistic access Initiative 238",
+    "client": "Holloway-Moore",
+    "start_date": "2026-03-05",
+    "end_date": "2026-05-06",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000239",
+    "name": "Extended didactic portal Initiative 239",
+    "client": "Crosby Inc",
+    "start_date": "2026-08-20",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000240",
+    "name": "Triple-buffered 5thgeneration project Initiative 240",
+    "client": "Hendricks, Knapp and Murray",
+    "start_date": "2026-04-23",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000241",
+    "name": "Phased bottom-line interface Initiative 241",
+    "client": "Mueller, Hill and Sanchez",
+    "start_date": "2026-05-07",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000242",
+    "name": "Triple-buffered grid-enabled throughput Initiative 242",
+    "client": "Jordan Inc",
+    "start_date": "2026-07-30",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000243",
+    "name": "Integrated scalable Local Area Network Initiative 243",
+    "client": "Dyer-Hall",
+    "start_date": "2026-04-16",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000244",
+    "name": "Vision-oriented multi-tasking strategy Initiative 244",
+    "client": "Jones, Johnston and Price",
+    "start_date": "2026-01-01",
+    "end_date": "2026-05-13",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000245",
+    "name": "Inverse dedicated challenge Initiative 245",
+    "client": "Perez-Boyer",
+    "start_date": "2026-03-19",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000246",
+    "name": "Sharable local projection Initiative 246",
+    "client": "Schaefer, Morrison and Walsh",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000247",
+    "name": "Customer-focused asymmetric interface Initiative 247",
+    "client": "Thompson, Hansen and Davis",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000248",
+    "name": "Digitized needs-based standardization Initiative 248",
+    "client": "Smith Ltd",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-15",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000249",
+    "name": "Cross-platform holistic time-frame Initiative 249",
+    "client": "Hicks, Love and Mckinney",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-08",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000250",
+    "name": "Customizable composite access Initiative 250",
+    "client": "Mccarthy LLC",
+    "start_date": "2026-01-22",
+    "end_date": "2026-08-05",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000251",
+    "name": "Ergonomic disintermediate intranet Initiative 251",
+    "client": "Nunez, Spence and Cochran",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000252",
+    "name": "Robust 24hour application Initiative 252",
+    "client": "Holland and Sons",
+    "start_date": "2026-04-16",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000253",
+    "name": "Grass-roots even-keeled adapter Initiative 253",
+    "client": "Patel, Lozano and Anderson",
+    "start_date": "2026-03-05",
+    "end_date": "2026-05-06",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000254",
+    "name": "Object-based heuristic model Initiative 254",
+    "client": "Powell and Sons",
+    "start_date": "2026-09-10",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000255",
+    "name": "Intuitive bifurcated approach Initiative 255",
+    "client": "Zuniga LLC",
+    "start_date": "2026-01-08",
+    "end_date": "2026-06-24",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000256",
+    "name": "Down-sized holistic encoding Initiative 256",
+    "client": "Jones and Sons",
+    "start_date": "2026-06-11",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000257",
+    "name": "Multi-tiered real-time strategy Initiative 257",
+    "client": "King, Thomas and Snow",
+    "start_date": "2026-08-06",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000258",
+    "name": "Streamlined stable project Initiative 258",
+    "client": "Hart-Ellison",
+    "start_date": "2026-01-29",
+    "end_date": "2026-04-15",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000259",
+    "name": "Cross-group 4thgeneration matrices Initiative 259",
+    "client": "Collins, Davis and Oneill",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000260",
+    "name": "Horizontal intangible instruction set Initiative 260",
+    "client": "Day, Richard and Downs",
+    "start_date": "2026-04-30",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000261",
+    "name": "Advanced system-worthy database Initiative 261",
+    "client": "Kelley-Bennett",
+    "start_date": "2026-06-04",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000262",
+    "name": "Team-oriented attitude-oriented success Initiative 262",
+    "client": "Anderson-Potts",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000263",
+    "name": "Networked contextually-based alliance Initiative 263",
+    "client": "Weeks-Terry",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000264",
+    "name": "Persistent bottom-line customer loyalty Initiative 264",
+    "client": "Hicks and Sons",
+    "start_date": "2026-09-03",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000265",
+    "name": "User-friendly client-driven Graphic Interface Initiative 265",
+    "client": "King Inc",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000266",
+    "name": "Cross-group methodical Local Area Network Initiative 266",
+    "client": "Wright-Nunez",
+    "start_date": "2026-01-15",
+    "end_date": "2026-05-13",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000267",
+    "name": "Right-sized demand-driven service-desk Initiative 267",
+    "client": "Holt-Davis",
+    "start_date": "2026-02-12",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000268",
+    "name": "Proactive multi-state artificial intelligence Initiative 268",
+    "client": "Sanchez-Gonzalez",
+    "start_date": "2026-04-30",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000269",
+    "name": "Optional intangible frame Initiative 269",
+    "client": "Mann, Wyatt and Martinez",
+    "start_date": "2026-07-23",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000270",
+    "name": "Multi-tiered solution-oriented monitoring Initiative 270",
+    "client": "Tucker Inc",
+    "start_date": "2026-02-12",
+    "end_date": "2026-03-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000271",
+    "name": "Automated context-sensitive intranet Initiative 271",
+    "client": "Oliver and Sons",
+    "start_date": "2026-07-09",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000272",
+    "name": "Integrated bandwidth-monitored intranet Initiative 272",
+    "client": "Moss-Chandler",
+    "start_date": "2026-09-17",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000273",
+    "name": "Organic maximized initiative Initiative 273",
+    "client": "Wilson Group",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000274",
+    "name": "Multi-tiered fresh-thinking info-mediaries Initiative 274",
+    "client": "Anderson-Brooks",
+    "start_date": "2026-02-19",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000275",
+    "name": "Decentralized composite artificial intelligence Initiative 275",
+    "client": "Williams, Jacobs and Norman",
+    "start_date": "2026-01-29",
+    "end_date": "2026-06-17",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000276",
+    "name": "Enhanced reciprocal strategy Initiative 276",
+    "client": "Williams, Baker and Lamb",
+    "start_date": "2026-07-30",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000277",
+    "name": "Integrated uniform approach Initiative 277",
+    "client": "Simon and Sons",
+    "start_date": "2026-09-03",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000278",
+    "name": "Synchronized grid-enabled Internet solution Initiative 278",
+    "client": "Wilson-Duran",
+    "start_date": "2026-04-30",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000279",
+    "name": "Function-based eco-centric challenge Initiative 279",
+    "client": "Park, Sparks and Morrison",
+    "start_date": "2026-10-29",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000280",
+    "name": "Upgradable homogeneous framework Initiative 280",
+    "client": "Wilson-Glenn",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000281",
+    "name": "Integrated neutral website Initiative 281",
+    "client": "Richardson LLC",
+    "start_date": "2026-03-26",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000282",
+    "name": "Streamlined upward-trending analyzer Initiative 282",
+    "client": "Stevens, Pierce and Ramos",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000283",
+    "name": "Optimized leadingedge standardization Initiative 283",
+    "client": "Smith Group",
+    "start_date": "2026-11-12",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000284",
+    "name": "Switchable high-level capability Initiative 284",
+    "client": "Hood, Oliver and Hunt",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000285",
+    "name": "Cross-group grid-enabled migration Initiative 285",
+    "client": "Wilson Inc",
+    "start_date": "2026-02-05",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000286",
+    "name": "Virtual dedicated superstructure Initiative 286",
+    "client": "Rodgers-Villa",
+    "start_date": "2026-03-05",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000287",
+    "name": "Managed attitude-oriented forecast Initiative 287",
+    "client": "Richardson Inc",
+    "start_date": "2026-06-18",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000288",
+    "name": "Vision-oriented hybrid structure Initiative 288",
+    "client": "Maxwell-Smith",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000289",
+    "name": "Configurable intangible customer loyalty Initiative 289",
+    "client": "Giles-Hall",
+    "start_date": "2026-08-06",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000290",
+    "name": "Ameliorated didactic intranet Initiative 290",
+    "client": "Castillo Group",
+    "start_date": "2026-01-29",
+    "end_date": "2026-03-18",
+    "status": "active",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000291",
+    "name": "Function-based local groupware Initiative 291",
+    "client": "Bowman LLC",
+    "start_date": "2026-05-07",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000292",
+    "name": "Monitored 4thgeneration Graphical User Interface Initiative 292",
+    "client": "White and Sons",
+    "start_date": "2026-11-05",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000293",
+    "name": "De-engineered grid-enabled projection Initiative 293",
+    "client": "Hale and Sons",
+    "start_date": "2026-04-23",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000294",
+    "name": "Face-to-face grid-enabled support Initiative 294",
+    "client": "Wu, Smith and Anderson",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000295",
+    "name": "Persevering coherent knowledgebase Initiative 295",
+    "client": "Harrison Inc",
+    "start_date": "2026-05-28",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000296",
+    "name": "Team-oriented mobile contingency Initiative 296",
+    "client": "Willis PLC",
+    "start_date": "2026-04-16",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000297",
+    "name": "Ameliorated context-sensitive matrix Initiative 297",
+    "client": "Kerr Inc",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000298",
+    "name": "Inverse didactic frame Initiative 298",
+    "client": "Rogers, Cantrell and Macdonald",
+    "start_date": "2026-06-18",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000299",
+    "name": "Down-sized background extranet Initiative 299",
+    "client": "Carter, George and Smith",
+    "start_date": "2026-01-08",
+    "end_date": "2026-02-18",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000300",
+    "name": "Focused radical complexity Initiative 300",
+    "client": "Chavez Inc",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000301",
+    "name": "Proactive client-driven moderator Initiative 301",
+    "client": "Oconnell Ltd",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000302",
+    "name": "Intuitive actuating function Initiative 302",
+    "client": "Romero LLC",
+    "start_date": "2026-03-05",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000303",
+    "name": "Public-key bi-directional definition Initiative 303",
+    "client": "Thompson Inc",
+    "start_date": "2026-09-03",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000304",
+    "name": "Proactive tangible emulation Initiative 304",
+    "client": "Todd, Harris and Welch",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000305",
+    "name": "Implemented human-resource adapter Initiative 305",
+    "client": "Wade, Robinson and Porter",
+    "start_date": "2026-03-19",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000306",
+    "name": "Team-oriented systemic methodology Initiative 306",
+    "client": "Myers and Sons",
+    "start_date": "2026-06-25",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000307",
+    "name": "Adaptive global infrastructure Initiative 307",
+    "client": "Orozco, Snyder and Anderson",
+    "start_date": "2026-05-07",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000308",
+    "name": "Centralized value-added ability Initiative 308",
+    "client": "Rodriguez-Barry",
+    "start_date": "2026-01-08",
+    "end_date": "2026-07-01",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000309",
+    "name": "Synergized motivating ability Initiative 309",
+    "client": "Mccormick, Johnson and Martin",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-10",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000310",
+    "name": "Up-sized mission-critical attitude Initiative 310",
+    "client": "Rice, Diaz and Gross",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000311",
+    "name": "Adaptive tangible array Initiative 311",
+    "client": "Myers-Hill",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000312",
+    "name": "Visionary transitional benchmark Initiative 312",
+    "client": "White, Cobb and Moreno",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000313",
+    "name": "Re-engineered regional extranet Initiative 313",
+    "client": "Pratt-Tyler",
+    "start_date": "2026-03-19",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000314",
+    "name": "Realigned stable definition Initiative 314",
+    "client": "Todd LLC",
+    "start_date": "2026-04-02",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000315",
+    "name": "Phased attitude-oriented solution Initiative 315",
+    "client": "Tate, Carpenter and Ruiz",
+    "start_date": "2026-04-30",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000316",
+    "name": "Team-oriented bifurcated moderator Initiative 316",
+    "client": "Burns and Sons",
+    "start_date": "2026-03-05",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000317",
+    "name": "Total exuding interface Initiative 317",
+    "client": "Meadows, Nolan and Simon",
+    "start_date": "2026-01-29",
+    "end_date": "2026-08-05",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000318",
+    "name": "Cross-platform holistic emulation Initiative 318",
+    "client": "Clayton-Schneider",
+    "start_date": "2026-03-12",
+    "end_date": "2026-07-08",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000319",
+    "name": "Managed multimedia model Initiative 319",
+    "client": "Martin, Bishop and Brewer",
+    "start_date": "2026-03-19",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000320",
+    "name": "Seamless asynchronous extranet Initiative 320",
+    "client": "Mcmillan, Bailey and Baker",
+    "start_date": "2026-05-14",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000321",
+    "name": "Implemented executive encryption Initiative 321",
+    "client": "Martinez Inc",
+    "start_date": "2026-04-09",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000322",
+    "name": "Cloned fault-tolerant alliance Initiative 322",
+    "client": "Vasquez LLC",
+    "start_date": "2026-05-28",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000323",
+    "name": "Adaptive full-range data-warehouse Initiative 323",
+    "client": "Byrd, Chan and Fuller",
+    "start_date": "2026-07-16",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000324",
+    "name": "Persistent 24/7 archive Initiative 324",
+    "client": "Sandoval, Waters and Murray",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-29",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000325",
+    "name": "Realigned stable success Initiative 325",
+    "client": "Miles, Hunt and Dalton",
+    "start_date": "2026-02-12",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000326",
+    "name": "Optimized client-server hub Initiative 326",
+    "client": "Smith, Jordan and Jones",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000327",
+    "name": "Expanded web-enabled data-warehouse Initiative 327",
+    "client": "Malone Group",
+    "start_date": "2026-07-16",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000328",
+    "name": "Customer-focused logistical functionalities Initiative 328",
+    "client": "Orr, Perez and Brown",
+    "start_date": "2026-02-12",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000329",
+    "name": "Balanced system-worthy flexibility Initiative 329",
+    "client": "Barron PLC",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000330",
+    "name": "Right-sized content-based Internet solution Initiative 330",
+    "client": "Finley LLC",
+    "start_date": "2026-05-07",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000331",
+    "name": "Advanced didactic adapter Initiative 331",
+    "client": "Moore LLC",
+    "start_date": "2026-01-29",
+    "end_date": "2026-06-03",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000332",
+    "name": "Upgradable explicit methodology Initiative 332",
+    "client": "Rodriguez-Flores",
+    "start_date": "2026-05-07",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000333",
+    "name": "Cloned object-oriented knowledgebase Initiative 333",
+    "client": "Jones Group",
+    "start_date": "2026-04-09",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000334",
+    "name": "Mandatory value-added alliance Initiative 334",
+    "client": "Martinez Group",
+    "start_date": "2026-03-12",
+    "end_date": "2026-05-20",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000335",
+    "name": "Self-enabling systematic frame Initiative 335",
+    "client": "Skinner PLC",
+    "start_date": "2026-05-14",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000336",
+    "name": "Fundamental 6thgeneration attitude Initiative 336",
+    "client": "Brown, Brown and Johnston",
+    "start_date": "2026-08-13",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000337",
+    "name": "Seamless human-resource hub Initiative 337",
+    "client": "Schmidt, Gallegos and Harper",
+    "start_date": "2026-03-19",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000338",
+    "name": "Seamless human-resource budgetary management Initiative 338",
+    "client": "Gamble-Bentley",
+    "start_date": "2026-04-16",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000339",
+    "name": "Open-architected regional Local Area Network Initiative 339",
+    "client": "Porter-Nguyen",
+    "start_date": "2026-03-26",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000340",
+    "name": "Vision-oriented bottom-line forecast Initiative 340",
+    "client": "Ballard, Collins and Hines",
+    "start_date": "2026-01-22",
+    "end_date": "2026-08-12",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000341",
+    "name": "Organic object-oriented service-desk Initiative 341",
+    "client": "Goodman Group",
+    "start_date": "2026-01-15",
+    "end_date": "2026-03-11",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000342",
+    "name": "Total empowering attitude Initiative 342",
+    "client": "George-Williams",
+    "start_date": "2026-08-27",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000343",
+    "name": "Balanced background algorithm Initiative 343",
+    "client": "Walls-Wright",
+    "start_date": "2026-05-07",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000344",
+    "name": "Optional user-facing success Initiative 344",
+    "client": "Harris-Conner",
+    "start_date": "2026-01-29",
+    "end_date": "2026-03-25",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000345",
+    "name": "Integrated needs-based productivity Initiative 345",
+    "client": "Reynolds Ltd",
+    "start_date": "2026-06-11",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000346",
+    "name": "Balanced clear-thinking database Initiative 346",
+    "client": "Martinez and Sons",
+    "start_date": "2026-07-09",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000347",
+    "name": "Monitored executive task-force Initiative 347",
+    "client": "Burke LLC",
+    "start_date": "2026-04-16",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000348",
+    "name": "Inverse national algorithm Initiative 348",
+    "client": "Jefferson PLC",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000349",
+    "name": "Grass-roots impactful policy Initiative 349",
+    "client": "Hahn and Sons",
+    "start_date": "2026-01-08",
+    "end_date": "2026-04-01",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000350",
+    "name": "Ergonomic asymmetric monitoring Initiative 350",
+    "client": "Robinson-Myers",
+    "start_date": "2026-05-14",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000351",
+    "name": "Function-based high-level encryption Initiative 351",
+    "client": "Williams LLC",
+    "start_date": "2026-04-23",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000352",
+    "name": "Fully-configurable foreground synergy Initiative 352",
+    "client": "Hale, Gardner and Jones",
+    "start_date": "2026-04-16",
+    "end_date": "2026-05-27",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000353",
+    "name": "Distributed eco-centric knowledge user Initiative 353",
+    "client": "Schneider, Glenn and Johnson",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000354",
+    "name": "Synergistic attitude-oriented productivity Initiative 354",
+    "client": "Williams, Scott and Nielsen",
+    "start_date": "2026-01-22",
+    "end_date": "2026-03-04",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000355",
+    "name": "Implemented client-server definition Initiative 355",
+    "client": "Harrison and Sons",
+    "start_date": "2026-06-11",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000356",
+    "name": "Visionary global moratorium Initiative 356",
+    "client": "Reed-Zhang",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000357",
+    "name": "Fully-configurable explicit interface Initiative 357",
+    "client": "Travis-Jefferson",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000358",
+    "name": "Customizable object-oriented contingency Initiative 358",
+    "client": "Greene, Jones and Kelley",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000359",
+    "name": "Multi-tiered foreground artificial intelligence Initiative 359",
+    "client": "Kelly, Arias and Alexander",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000360",
+    "name": "Virtual 4thgeneration budgetary management Initiative 360",
+    "client": "Tran, Jones and Clark",
+    "start_date": "2026-07-23",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000361",
+    "name": "Reverse-engineered 24/7 task-force Initiative 361",
+    "client": "Pena-Douglas",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-22",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000362",
+    "name": "Profit-focused even-keeled monitoring Initiative 362",
+    "client": "Keller-Rodriguez",
+    "start_date": "2026-04-30",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000363",
+    "name": "Enterprise-wide intermediate monitoring Initiative 363",
+    "client": "Sheppard and Sons",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-01",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000364",
+    "name": "Implemented didactic open architecture Initiative 364",
+    "client": "Valdez, Swanson and Davis",
+    "start_date": "2026-01-29",
+    "end_date": "2026-06-17",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000365",
+    "name": "Digitized 24hour matrix Initiative 365",
+    "client": "Irwin, White and Sims",
+    "start_date": "2026-02-19",
+    "end_date": "2026-04-01",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000366",
+    "name": "Open-source needs-based neural-net Initiative 366",
+    "client": "Moore, Parker and Ford",
+    "start_date": "2026-05-07",
+    "end_date": "2026-10-28",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000367",
+    "name": "Cross-platform solution-oriented paradigm Initiative 367",
+    "client": "Dorsey-Davis",
+    "start_date": "2026-08-13",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000368",
+    "name": "Up-sized fault-tolerant superstructure Initiative 368",
+    "client": "Santos, May and Dennis",
+    "start_date": "2026-10-08",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000369",
+    "name": "Customizable real-time instruction set Initiative 369",
+    "client": "Ramsey-Allen",
+    "start_date": "2026-01-22",
+    "end_date": "2026-05-06",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000370",
+    "name": "Integrated reciprocal portal Initiative 370",
+    "client": "Jackson LLC",
+    "start_date": "2026-08-27",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000371",
+    "name": "Customer-focused exuding matrix Initiative 371",
+    "client": "Parker and Sons",
+    "start_date": "2026-01-22",
+    "end_date": "2026-08-05",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000372",
+    "name": "Team-oriented client-server Graphical User Interface Initiative 372",
+    "client": "Mcdonald, Jones and Reed",
+    "start_date": "2026-08-27",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000373",
+    "name": "Centralized grid-enabled conglomeration Initiative 373",
+    "client": "Wright, Garcia and Barrera",
+    "start_date": "2026-02-26",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000374",
+    "name": "Virtual clear-thinking policy Initiative 374",
+    "client": "Smith-Davis",
+    "start_date": "2026-03-19",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000375",
+    "name": "Distributed optimizing moratorium Initiative 375",
+    "client": "Brown and Sons",
+    "start_date": "2026-08-13",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000376",
+    "name": "Programmable content-based encryption Initiative 376",
+    "client": "Rogers, Macias and Sanchez",
+    "start_date": "2026-01-15",
+    "end_date": "2026-05-27",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000377",
+    "name": "Enterprise-wide discrete website Initiative 377",
+    "client": "Collins, Hanson and Johnson",
+    "start_date": "2026-01-22",
+    "end_date": "2026-03-25",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000378",
+    "name": "Exclusive transitional focus group Initiative 378",
+    "client": "Copeland, Castro and Hernandez",
+    "start_date": "2026-02-05",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000379",
+    "name": "Focused optimal toolset Initiative 379",
+    "client": "Stevens PLC",
+    "start_date": "2026-01-29",
+    "end_date": "2026-08-12",
+    "status": "active",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000380",
+    "name": "Focused logistical access Initiative 380",
+    "client": "Burgess-Simon",
+    "start_date": "2026-03-05",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000381",
+    "name": "Re-contextualized even-keeled moderator Initiative 381",
+    "client": "Gomez PLC",
+    "start_date": "2026-07-30",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000382",
+    "name": "Sharable 5thgeneration paradigm Initiative 382",
+    "client": "Wise-Smith",
+    "start_date": "2026-05-07",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000383",
+    "name": "Devolved grid-enabled emulation Initiative 383",
+    "client": "Duran-Ward",
+    "start_date": "2026-06-11",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000384",
+    "name": "Quality-focused secondary pricing structure Initiative 384",
+    "client": "Brown-Munoz",
+    "start_date": "2026-04-16",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000385",
+    "name": "Re-contextualized holistic forecast Initiative 385",
+    "client": "Carlson Ltd",
+    "start_date": "2026-05-28",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000386",
+    "name": "Operative zero tolerance portal Initiative 386",
+    "client": "Bauer, Green and Hall",
+    "start_date": "2026-08-06",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000387",
+    "name": "Assimilated exuding pricing structure Initiative 387",
+    "client": "David-Ross",
+    "start_date": "2026-01-29",
+    "end_date": "2026-04-08",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000388",
+    "name": "User-friendly exuding artificial intelligence Initiative 388",
+    "client": "Hill, Brown and Wilcox",
+    "start_date": "2026-03-19",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000389",
+    "name": "Optional 24hour customer loyalty Initiative 389",
+    "client": "Warren PLC",
+    "start_date": "2026-06-11",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000390",
+    "name": "Total context-sensitive architecture Initiative 390",
+    "client": "Woods Inc",
+    "start_date": "2026-01-22",
+    "end_date": "2026-04-29",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000391",
+    "name": "Configurable asymmetric info-mediaries Initiative 391",
+    "client": "Hughes Inc",
+    "start_date": "2026-02-05",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000392",
+    "name": "Distributed zero tolerance moratorium Initiative 392",
+    "client": "Wu, Williams and Bryan",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000393",
+    "name": "Triple-buffered actuating Internet solution Initiative 393",
+    "client": "Haynes LLC",
+    "start_date": "2026-02-26",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000394",
+    "name": "Distributed bottom-line website Initiative 394",
+    "client": "Zamora-Beck",
+    "start_date": "2026-05-21",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000395",
+    "name": "Profit-focused asynchronous secured line Initiative 395",
+    "client": "Sheppard, Todd and Rodriguez",
+    "start_date": "2026-06-25",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000396",
+    "name": "User-centric actuating paradigm Initiative 396",
+    "client": "Rodriguez-Zavala",
+    "start_date": "2026-04-09",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000397",
+    "name": "Open-architected systemic budgetary management Initiative 397",
+    "client": "Frank-Chen",
+    "start_date": "2026-05-07",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000398",
+    "name": "Progressive dedicated moratorium Initiative 398",
+    "client": "Jones LLC",
+    "start_date": "2026-04-02",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000399",
+    "name": "Multi-layered system-worthy monitoring Initiative 399",
+    "client": "Whitehead-Cameron",
+    "start_date": "2026-05-07",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000400",
+    "name": "Persistent upward-trending structure Initiative 400",
+    "client": "Young, Thornton and Smith",
+    "start_date": "2026-08-20",
+    "end_date": "2026-11-11",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000401",
+    "name": "Self-enabling radical open system Initiative 401",
+    "client": "Rivera PLC",
+    "start_date": "2026-05-28",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000402",
+    "name": "Object-based full-range product Initiative 402",
+    "client": "Nelson-Dixon",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000403",
+    "name": "Face-to-face 24hour intranet Initiative 403",
+    "client": "Cook Ltd",
+    "start_date": "2026-04-23",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000404",
+    "name": "Down-sized stable product Initiative 404",
+    "client": "Sanchez, Bennett and Mata",
+    "start_date": "2026-01-01",
+    "end_date": "2026-02-25",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000405",
+    "name": "Optional actuating superstructure Initiative 405",
+    "client": "Foster, Robbins and Yoder",
+    "start_date": "2026-01-29",
+    "end_date": "2026-05-20",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000406",
+    "name": "Monitored asynchronous hardware Initiative 406",
+    "client": "Patterson Inc",
+    "start_date": "2026-03-05",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000407",
+    "name": "Seamless bottom-line challenge Initiative 407",
+    "client": "Jackson-Lawson",
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000408",
+    "name": "Public-key clear-thinking matrices Initiative 408",
+    "client": "Diaz LLC",
+    "start_date": "2026-05-14",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000409",
+    "name": "Organized leadingedge secured line Initiative 409",
+    "client": "Gill, Ochoa and Blackwell",
+    "start_date": "2026-04-02",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000410",
+    "name": "Ameliorated upward-trending hierarchy Initiative 410",
+    "client": "Brewer, Foster and Aguilar",
+    "start_date": "2026-03-12",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000411",
+    "name": "Diverse grid-enabled firmware Initiative 411",
+    "client": "Day, Martin and Hammond",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000412",
+    "name": "Customizable real-time service-desk Initiative 412",
+    "client": "Valencia-Mcdaniel",
+    "start_date": "2026-04-16",
+    "end_date": "2026-06-17",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000413",
+    "name": "Customizable 3rdgeneration hardware Initiative 413",
+    "client": "Soto and Sons",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000414",
+    "name": "Ameliorated actuating archive Initiative 414",
+    "client": "Wagner-Chapman",
+    "start_date": "2026-01-22",
+    "end_date": "2026-07-08",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000415",
+    "name": "Sharable next generation Graphical User Interface Initiative 415",
+    "client": "Campbell, Rogers and Howard",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000416",
+    "name": "Face-to-face fault-tolerant circuit Initiative 416",
+    "client": "Potter, Smith and Deleon",
+    "start_date": "2026-06-25",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000417",
+    "name": "Reactive holistic open architecture Initiative 417",
+    "client": "Davis-Clarke",
+    "start_date": "2026-03-26",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000418",
+    "name": "Right-sized local core Initiative 418",
+    "client": "Rivera, Cook and Wilson",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000419",
+    "name": "Robust cohesive ability Initiative 419",
+    "client": "Santana, Howard and Ruiz",
+    "start_date": "2026-03-19",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000420",
+    "name": "Upgradable responsive throughput Initiative 420",
+    "client": "Burke-Simmons",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000421",
+    "name": "Team-oriented fresh-thinking forecast Initiative 421",
+    "client": "Morgan-Kirk",
+    "start_date": "2026-01-22",
+    "end_date": "2026-03-04",
+    "status": "active",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000422",
+    "name": "Optimized zero-defect secured line Initiative 422",
+    "client": "Chapman and Sons",
+    "start_date": "2026-05-07",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000423",
+    "name": "Synchronized background throughput Initiative 423",
+    "client": "Martinez-Saunders",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000424",
+    "name": "Reduced bottom-line access Initiative 424",
+    "client": "Bell LLC",
+    "start_date": "2026-02-19",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000425",
+    "name": "Configurable fault-tolerant knowledge user Initiative 425",
+    "client": "Ford-Lewis",
+    "start_date": "2026-01-29",
+    "end_date": "2026-05-20",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000426",
+    "name": "Expanded holistic process improvement Initiative 426",
+    "client": "Harris, Campbell and Burns",
+    "start_date": "2026-04-09",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000427",
+    "name": "Networked asymmetric extranet Initiative 427",
+    "client": "Harrington-Lawrence",
+    "start_date": "2026-02-19",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000428",
+    "name": "Synergized explicit definition Initiative 428",
+    "client": "Warren LLC",
+    "start_date": "2026-06-25",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000429",
+    "name": "Face-to-face analyzing knowledgebase Initiative 429",
+    "client": "Davis PLC",
+    "start_date": "2026-05-28",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000430",
+    "name": "Proactive tangible algorithm Initiative 430",
+    "client": "Fisher, Garner and Smith",
+    "start_date": "2026-04-09",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000431",
+    "name": "Switchable maximized success Initiative 431",
+    "client": "Santiago, Black and Terrell",
+    "start_date": "2026-04-16",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000432",
+    "name": "Multi-lateral exuding function Initiative 432",
+    "client": "Hernandez-Stevenson",
+    "start_date": "2026-04-23",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000433",
+    "name": "Face-to-face analyzing support Initiative 433",
+    "client": "Thompson-Russell",
+    "start_date": "2026-07-16",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000434",
+    "name": "Persevering tangible initiative Initiative 434",
+    "client": "Mcdonald LLC",
+    "start_date": "2026-02-12",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000435",
+    "name": "Re-contextualized regional budgetary management Initiative 435",
+    "client": "Wheeler-Young",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-17",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000436",
+    "name": "Devolved methodical installation Initiative 436",
+    "client": "Morris-Martinez",
+    "start_date": "2026-01-08",
+    "end_date": "2026-03-18",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000437",
+    "name": "Secured zero tolerance Local Area Network Initiative 437",
+    "client": "Hernandez LLC",
+    "start_date": "2026-07-23",
+    "end_date": "2026-11-04",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000438",
+    "name": "Up-sized stable synergy Initiative 438",
+    "client": "Fowler, Rangel and Acevedo",
+    "start_date": "2026-05-07",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000439",
+    "name": "Assimilated multimedia firmware Initiative 439",
+    "client": "Baker, Hawkins and Hudson",
+    "start_date": "2026-03-05",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000440",
+    "name": "Managed discrete infrastructure Initiative 440",
+    "client": "Lawson and Sons",
+    "start_date": "2026-01-29",
+    "end_date": "2026-07-15",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000441",
+    "name": "Polarized intermediate superstructure Initiative 441",
+    "client": "Green-Warren",
+    "start_date": "2026-01-01",
+    "end_date": "2026-04-22",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000442",
+    "name": "Managed grid-enabled help-desk Initiative 442",
+    "client": "Smith-Ramos",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000443",
+    "name": "Persistent disintermediate time-frame Initiative 443",
+    "client": "Harris, Orozco and Taylor",
+    "start_date": "2026-08-20",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000444",
+    "name": "Virtual impactful middleware Initiative 444",
+    "client": "Morris, Morales and Stokes",
+    "start_date": "2026-07-16",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000445",
+    "name": "Self-enabling 5thgeneration synergy Initiative 445",
+    "client": "Little Inc",
+    "start_date": "2026-06-04",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000446",
+    "name": "Mandatory actuating policy Initiative 446",
+    "client": "Schwartz Group",
+    "start_date": "2026-08-27",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000447",
+    "name": "Realigned analyzing service-desk Initiative 447",
+    "client": "Porter, Peters and Soto",
+    "start_date": "2026-01-29",
+    "end_date": "2026-05-06",
+    "status": "active",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000448",
+    "name": "Pre-emptive responsive paradigm Initiative 448",
+    "client": "Maldonado, Henry and Morgan",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000449",
+    "name": "Adaptive asynchronous service-desk Initiative 449",
+    "client": "Smith-Herrera",
+    "start_date": "2026-07-02",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000450",
+    "name": "Profit-focused methodical website Initiative 450",
+    "client": "Miller PLC",
+    "start_date": "2026-07-30",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000451",
+    "name": "Cross-platform system-worthy orchestration Initiative 451",
+    "client": "Harris and Sons",
+    "start_date": "2026-06-18",
+    "end_date": "2026-09-30",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000452",
+    "name": "Self-enabling multi-tasking hub Initiative 452",
+    "client": "Page, Garcia and Bell",
+    "start_date": "2026-02-26",
+    "end_date": "2026-04-29",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000453",
+    "name": "Diverse 24hour forecast Initiative 453",
+    "client": "Knight-Holt",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000454",
+    "name": "Switchable 24hour concept Initiative 454",
+    "client": "Hobbs-Reed",
+    "start_date": "2026-04-02",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000455",
+    "name": "Mandatory cohesive model Initiative 455",
+    "client": "Wilson Ltd",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000456",
+    "name": "Mandatory zero-defect orchestration Initiative 456",
+    "client": "Smith Group",
+    "start_date": "2026-03-26",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000457",
+    "name": "Multi-tiered full-range algorithm Initiative 457",
+    "client": "Garcia-Hill",
+    "start_date": "2026-10-22",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000458",
+    "name": "Exclusive hybrid challenge Initiative 458",
+    "client": "Cox, Gray and Mckinney",
+    "start_date": "2026-03-12",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000459",
+    "name": "Persistent human-resource info-mediaries Initiative 459",
+    "client": "Le LLC",
+    "start_date": "2026-05-07",
+    "end_date": "2026-08-05",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000460",
+    "name": "Enhanced systematic service-desk Initiative 460",
+    "client": "Rangel-Harris",
+    "start_date": "2026-06-04",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000461",
+    "name": "Versatile 24hour neural-net Initiative 461",
+    "client": "Ortiz-Harris",
+    "start_date": "2026-02-19",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000462",
+    "name": "Decentralized empowering orchestration Initiative 462",
+    "client": "Sanchez PLC",
+    "start_date": "2026-06-25",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000463",
+    "name": "Phased leadingedge time-frame Initiative 463",
+    "client": "Cook-George",
+    "start_date": "2026-06-18",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000464",
+    "name": "User-friendly dynamic solution Initiative 464",
+    "client": "Simmons and Sons",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000465",
+    "name": "Triple-buffered stable paradigm Initiative 465",
+    "client": "Ward-Howell",
+    "start_date": "2026-06-18",
+    "end_date": "2026-07-29",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000466",
+    "name": "Secured explicit info-mediaries Initiative 466",
+    "client": "Payne, Henry and Jensen",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-02",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000467",
+    "name": "Up-sized incremental migration Initiative 467",
+    "client": "Hernandez, Anderson and Pham",
+    "start_date": "2026-02-26",
+    "end_date": "2026-07-15",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000468",
+    "name": "Programmable multimedia Local Area Network Initiative 468",
+    "client": "Burnett LLC",
+    "start_date": "2026-04-09",
+    "end_date": "2026-06-03",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000469",
+    "name": "Implemented mission-critical structure Initiative 469",
+    "client": "Wall, Vargas and Owens",
+    "start_date": "2026-02-05",
+    "end_date": "2026-07-01",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000470",
+    "name": "Programmable disintermediate flexibility Initiative 470",
+    "client": "Fowler, Campbell and Bailey",
+    "start_date": "2026-05-28",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000471",
+    "name": "De-engineered bi-directional service-desk Initiative 471",
+    "client": "Daniels PLC",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000472",
+    "name": "Switchable transitional circuit Initiative 472",
+    "client": "Wright-Clark",
+    "start_date": "2026-02-19",
+    "end_date": "2026-09-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000473",
+    "name": "Digitized exuding access Initiative 473",
+    "client": "Henderson and Sons",
+    "start_date": "2026-04-23",
+    "end_date": "2026-06-24",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000474",
+    "name": "Sharable value-added open architecture Initiative 474",
+    "client": "Delacruz-Hoffman",
+    "start_date": "2026-04-02",
+    "end_date": "2026-08-26",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000475",
+    "name": "Switchable eco-centric forecast Initiative 475",
+    "client": "Ryan-Hamilton",
+    "start_date": "2026-06-18",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000476",
+    "name": "Assimilated logistical solution Initiative 476",
+    "client": "Campbell-Dunlap",
+    "start_date": "2026-02-19",
+    "end_date": "2026-06-10",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000477",
+    "name": "Multi-layered logistical open system Initiative 477",
+    "client": "Guerra-Gallegos",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000478",
+    "name": "Cloned systemic paradigm Initiative 478",
+    "client": "Lopez Group",
+    "start_date": "2026-05-07",
+    "end_date": "2026-10-07",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000479",
+    "name": "Seamless attitude-oriented archive Initiative 479",
+    "client": "Alexander, Villegas and Lopez",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000480",
+    "name": "Down-sized executive knowledgebase Initiative 480",
+    "client": "Lewis-Thornton",
+    "start_date": "2026-01-08",
+    "end_date": "2026-04-22",
+    "status": "active",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000481",
+    "name": "Devolved contextually-based time-frame Initiative 481",
+    "client": "Garcia and Sons",
+    "start_date": "2026-09-10",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000482",
+    "name": "Focused impactful Graphical User Interface Initiative 482",
+    "client": "Boyd-Heath",
+    "start_date": "2026-02-19",
+    "end_date": "2026-07-22",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000483",
+    "name": "Reverse-engineered attitude-oriented hierarchy Initiative 483",
+    "client": "Lester Ltd",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000484",
+    "name": "Distributed secondary infrastructure Initiative 484",
+    "client": "Johnson, Massey and Anderson",
+    "start_date": "2026-03-19",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000485",
+    "name": "Virtual homogeneous circuit Initiative 485",
+    "client": "Peterson-Allen",
+    "start_date": "2026-01-29",
+    "end_date": "2026-08-12",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000486",
+    "name": "Customizable non-volatile matrix Initiative 486",
+    "client": "Jenkins, George and Brooks",
+    "start_date": "2026-06-18",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000487",
+    "name": "Upgradable full-range projection Initiative 487",
+    "client": "Fowler Inc",
+    "start_date": "2026-07-16",
+    "end_date": "2026-09-02",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000488",
+    "name": "Public-key non-volatile help-desk Initiative 488",
+    "client": "Shannon, Hughes and Alexander",
+    "start_date": "2026-06-11",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000489",
+    "name": "Managed zero-defect interface Initiative 489",
+    "client": "Riddle-Schmidt",
+    "start_date": "2026-08-27",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000490",
+    "name": "User-friendly 3rdgeneration success Initiative 490",
+    "client": "Chan, Cohen and Richards",
+    "start_date": "2026-06-11",
+    "end_date": "2026-12-09",
+    "status": "planned",
+    "priority": "low"
+  },
+  {
+    "project_id": "PRJ-2026-000491",
+    "name": "Quality-focused heuristic neural-net Initiative 491",
+    "client": "Myers Inc",
+    "start_date": "2026-07-23",
+    "end_date": "2026-12-16",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000492",
+    "name": "Re-contextualized logistical interface Initiative 492",
+    "client": "Cook-Maldonado",
+    "start_date": "2026-07-09",
+    "end_date": "2026-12-23",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000493",
+    "name": "Managed heuristic solution Initiative 493",
+    "client": "Cooper LLC",
+    "start_date": "2026-03-12",
+    "end_date": "2026-08-19",
+    "status": "planned",
+    "priority": "high"
+  },
+  {
+    "project_id": "PRJ-2026-000494",
+    "name": "Multi-lateral bottom-line time-frame Initiative 494",
+    "client": "Woods Group",
+    "start_date": "2026-07-30",
+    "end_date": "2026-10-21",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000495",
+    "name": "Public-key secondary system engine Initiative 495",
+    "client": "Williams, Greene and Banks",
+    "start_date": "2026-07-23",
+    "end_date": "2026-10-14",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000496",
+    "name": "Expanded multi-state product Initiative 496",
+    "client": "Beck, Rivas and Myers",
+    "start_date": "2026-03-12",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000497",
+    "name": "Diverse solution-oriented strategy Initiative 497",
+    "client": "Luna-Richardson",
+    "start_date": "2026-05-14",
+    "end_date": "2026-11-25",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000498",
+    "name": "Up-sized secondary initiative Initiative 498",
+    "client": "Johnson, Perkins and Carter",
+    "start_date": "2026-01-08",
+    "end_date": "2026-05-20",
+    "status": "active",
+    "priority": "critical"
+  },
+  {
+    "project_id": "PRJ-2026-000499",
+    "name": "Virtual intangible productivity Initiative 499",
+    "client": "Boyer, Romero and Garcia",
+    "start_date": "2026-02-26",
+    "end_date": "2026-08-12",
+    "status": "planned",
+    "priority": "medium"
+  },
+  {
+    "project_id": "PRJ-2026-000500",
+    "name": "Enhanced encompassing capability Initiative 500",
+    "client": "Klein-Alvarado",
+    "start_date": "2026-08-13",
+    "end_date": "2026-11-18",
+    "status": "planned",
+    "priority": "high"
+  }
+]

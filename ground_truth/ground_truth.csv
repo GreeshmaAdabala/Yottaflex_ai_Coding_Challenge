@@ -1,0 +1,5 @@
+ground_truth_id,issue_type,entity_type,entity_id,expected_detection,ground_truth_label,details,recorded_at
+GT-ALLO,allocation_exceeds_availability,Allocation,ALLOC-2026-004224,Allocated weekly hours exceed the employee's contracted weekly capacity.,anomaly,A labelled 68-hour assignment exceeds the employee's 36-hour weekly capacity; baseline assignments remain unchanged.,2026-01-01
+GT-DEMA,demand_double_counted,DemandImportEvent,DME-DUP-00000001,Repeated source_reference is flagged; demand is counted once by demand_id.,anomaly,A second ingestion event repeats source reference DEM-PRJ-2026-000001-2026W01.,2026-01-01
+GT-OVER,overlapping_projects,Allocation,ALLOC-2026-004226,An employee with overlapping date ranges across distinct projects is flagged.,anomaly,Allocation pair ALLOC-2026-004225 and ALLOC-2026-004226 shares dates on different projects.,2026-01-01
+GT-STAL,stale_skill_current,EmployeeSkill,EMP-000001-SKL-000003,Skill verification older than 365 days is classified as stale.,anomaly,Verification predates the horizon by 900 days while the profile status remains verified.,2026-01-01

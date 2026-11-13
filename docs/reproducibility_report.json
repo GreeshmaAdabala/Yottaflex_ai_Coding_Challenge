@@ -1,0 +1,275 @@
+{
+  "seed": 20261022,
+  "configuration": {
+    "employees": 5000,
+    "skills": 300,
+    "projects": 500,
+    "horizon_weeks": 52
+  },
+  "identical": true,
+  "comparisons": {
+    "counts": true,
+    "primary_key_hashes": true,
+    "expected_anomaly_detection": true,
+    "derived_calculations": true,
+    "file_checksums": true
+  },
+  "first_run": {
+    "counts": {
+      "employees": 5000,
+      "roles": 15,
+      "skills": 300,
+      "employee_skills": 34627,
+      "projects": 500,
+      "demand_plans": 9023,
+      "allocations": 4226,
+      "availability": 60000,
+      "trainings": 936,
+      "gap_analyses": 91,
+      "role_skills": 151,
+      "demand_import_events": 9024,
+      "anomaly_ground_truth": 4,
+      "audit_events": 0
+    },
+    "primary_key_hashes": {
+      "employees": "974f760123f5f2e81f82bd8719a36edfd13f0ae6679d85b94d329a60b769a27d",
+      "roles": "5789ab27fc8255eae58d92f0c97d5dcc32f9a6eaea56484cf0166fc0baaa1b95",
+      "skills": "cbb792f534a645437ee40d22187bfed861aa04eeae34079f904571535dcebdff",
+      "employee_skills": "695c005b3bbbebf586614edf6de4d2c50756f01f935d5aa59d7abbb75ee0feaa",
+      "projects": "3e52115f5d9cad4d050ea12352b875592f544f2684ac9d27a39495d45c2061d2",
+      "demand_plans": "26449a2212b4fc92cc41cc3ef8b8c2ccb4b7aa75c203fd39b9694630175f9b8c",
+      "allocations": "06ceecfe48f380f9b0a554fbfd371855e4e04a12f61da2e78d30612f9f283e54",
+      "availability": "329221899d94af45b21a018239fe6295902bae7be2ef862f26432953f514f01d",
+      "trainings": "e1e2bc62562de2660fbea9a4688ce80bd294994418055cd839a3fb9dce6f068a",
+      "gap_analyses": "853b54dcc5ceb4d3e7589e145e3f057fe9c8b8d270d6f2e38114ae89b31e0fc4",
+      "role_skills": "d4cdbd4accf32eaa362bf7e249dc827c186389ba961b4dbe29e6f2dec587519b",
+      "demand_import_events": "ca06d65ee4e6c0789cb95ce65557b4a51e86ef3855ad2cb962fee3d703fff5ea",
+      "anomaly_ground_truth": "604630913e4c112341f71c49c561e4a6cb48a341309ef2f1e32ff9e1ea2ccf87",
+      "audit_events": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "ground_truth": [
+      [
+        "allocation_exceeds_availability",
+        "ALLOC-2026-004224"
+      ],
+      [
+        "demand_double_counted",
+        "DME-DUP-00000001"
+      ],
+      [
+        "overlapping_projects",
+        "ALLOC-2026-004226"
+      ],
+      [
+        "stale_skill_current",
+        "EMP-000001-SKL-000003"
+      ]
+    ],
+    "expected_anomaly_detection": {
+      "expected": [
+        [
+          "allocation_exceeds_availability",
+          "ALLOC-2026-004224"
+        ],
+        [
+          "demand_double_counted",
+          "DME-DUP-00000001"
+        ],
+        [
+          "overlapping_projects",
+          "ALLOC-2026-004226"
+        ],
+        [
+          "stale_skill_current",
+          "EMP-000001-SKL-000003"
+        ]
+      ],
+      "detected": [
+        [
+          "allocation_exceeds_availability",
+          "ALLOC-2026-004224"
+        ],
+        [
+          "demand_double_counted",
+          "DME-DUP-00000001"
+        ],
+        [
+          "overlapping_projects",
+          "ALLOC-2026-004226"
+        ],
+        [
+          "stale_skill_current",
+          "EMP-000001-SKL-000003"
+        ]
+      ],
+      "missing_expected": [],
+      "unexpected": []
+    },
+    "derived_calculations": {
+      "skill_gaps": {
+        "count": 22,
+        "sha256": "02addad531696775a22c6aba937a86877f4dbe3afd1da13a61445d24eb485e8e"
+      },
+      "workforce_utilization": {
+        "count": 5000,
+        "sha256": "0e8a2ce18bb687d6bccd84602af349f8b8771ebd4ddca6428424f3856b9b8fdf"
+      }
+    },
+    "file_checksums": {
+      "exports\\csv\\allocations.csv": "5c46cdb70aa695f20a73e91ddc6111c430bb13aa4a40894eb3f2bc41bade78c8",
+      "exports\\csv\\availability.csv": "f3e19b5b148418d41840cb878f6da05057091b11b47b7863810677a7a7c28ce2",
+      "exports\\csv\\demand_plans.csv": "ed5d05cb14cc0d18aff1753ec4237180128bcf225765310a30d7520f4f760239",
+      "exports\\csv\\employee_skills.csv": "41352e75acba56e003236d48db64962d632afa916909495cd0f9cc62b5071e44",
+      "exports\\csv\\employees.csv": "c34470014a0653dff49c336f039d27cf9bed9cded35769413eeda36dc9c95569",
+      "exports\\csv\\gap_analyses.csv": "de48292a7a270f6a83d6bbf7b6b072c464f97f6cb0dff06e3f4fa97deaf1eb16",
+      "exports\\csv\\projects.csv": "ee8e3d6dc2416f64d5b9151ec966fd223ccd064bb268bfb11f44a30e997fbf6b",
+      "exports\\csv\\roles.csv": "465819db0810a7ee757bc5899da3a95a440d89e90a43c9cf960786788d0e74cc",
+      "exports\\csv\\skills.csv": "a918dfafbca9c2a5dedef3533427b3e7a00c2c3fd0aa6876743a7fb037d96e4f",
+      "exports\\csv\\trainings.csv": "97a20f726e5b19389c373b343c2e9aeee1bb7f9ed601df7a38db8fcdcab5975d",
+      "exports\\json\\allocations.json": "bc065f95ef2c9935133105a7e87fc2d599688fbd2595c1d8cf0e501d28130f68",
+      "exports\\json\\availability.json": "a3aeb38612808a884dcdfaf8eb3578d882ccfbf78d1780a5e68ddc9fe2ed792d",
+      "exports\\json\\demand_plans.json": "01a9834a86eec53df178dc434bd10171a16a620a4060cbf32fd3f23f3d21c348",
+      "exports\\json\\employee_skills.json": "3ea15f7b3d27a413bc21f72f1aee2812330237feb0740b6c27514dd6b5bd707c",
+      "exports\\json\\employees.json": "74c6aac180447ec9e91bf70aee6650ea2b2a91bc999892036319563ad7b6304b",
+      "exports\\json\\gap_analyses.json": "7a562283f3d6be9215e11f1d761ca0dd3165736a6a07d4556e5f46aae76b1320",
+      "exports\\json\\ground_truth.json": "a537d553ff967da07c0011ba089a5d4e5a1e591e761ade9c6081c97e359848ea",
+      "exports\\json\\projects.json": "73485a976a4398a5fbcd24d4ffd4f799045507b25f526ebb4293240892e2d72b",
+      "exports\\json\\roles.json": "b31714e07264deb5b361d90637685ec379eb62694ad400631029b76b0fe9331a",
+      "exports\\json\\skills.json": "63df1b084a08e527039a103ccbab0fff2cd14588b898ee9cc2c945d08e81037e",
+      "exports\\json\\trainings.json": "e2baa7f3c7764904cae7ba1c66e3efea8238aba581900b4a83178ac38786610c",
+      "exports\\source_manifest.md": "455322e8e3b0ac2658a3b21057dba5b99c1da07064f79e1187f7e4ec1fa927fa",
+      "exports\\sql\\workforce_dump.sql": "2ce8a07304b8b63d37305364bfe548633918ae89493cfbce7cb886aba4a1c7f0",
+      "ground_truth\\ground_truth.csv": "195f6a5f3dd309c7e8c179a298400dd47804ef0d760cbb0341a633f5fda44065",
+      "ground_truth\\ground_truth.json": "a537d553ff967da07c0011ba089a5d4e5a1e591e761ade9c6081c97e359848ea"
+    }
+  },
+  "second_run": {
+    "counts": {
+      "employees": 5000,
+      "roles": 15,
+      "skills": 300,
+      "employee_skills": 34627,
+      "projects": 500,
+      "demand_plans": 9023,
+      "allocations": 4226,
+      "availability": 60000,
+      "trainings": 936,
+      "gap_analyses": 91,
+      "role_skills": 151,
+      "demand_import_events": 9024,
+      "anomaly_ground_truth": 4,
+      "audit_events": 0
+    },
+    "primary_key_hashes": {
+      "employees": "974f760123f5f2e81f82bd8719a36edfd13f0ae6679d85b94d329a60b769a27d",
+      "roles": "5789ab27fc8255eae58d92f0c97d5dcc32f9a6eaea56484cf0166fc0baaa1b95",
+      "skills": "cbb792f534a645437ee40d22187bfed861aa04eeae34079f904571535dcebdff",
+      "employee_skills": "695c005b3bbbebf586614edf6de4d2c50756f01f935d5aa59d7abbb75ee0feaa",
+      "projects": "3e52115f5d9cad4d050ea12352b875592f544f2684ac9d27a39495d45c2061d2",
+      "demand_plans": "26449a2212b4fc92cc41cc3ef8b8c2ccb4b7aa75c203fd39b9694630175f9b8c",
+      "allocations": "06ceecfe48f380f9b0a554fbfd371855e4e04a12f61da2e78d30612f9f283e54",
+      "availability": "329221899d94af45b21a018239fe6295902bae7be2ef862f26432953f514f01d",
+      "trainings": "e1e2bc62562de2660fbea9a4688ce80bd294994418055cd839a3fb9dce6f068a",
+      "gap_analyses": "853b54dcc5ceb4d3e7589e145e3f057fe9c8b8d270d6f2e38114ae89b31e0fc4",
+      "role_skills": "d4cdbd4accf32eaa362bf7e249dc827c186389ba961b4dbe29e6f2dec587519b",
+      "demand_import_events": "ca06d65ee4e6c0789cb95ce65557b4a51e86ef3855ad2cb962fee3d703fff5ea",
+      "anomaly_ground_truth": "604630913e4c112341f71c49c561e4a6cb48a341309ef2f1e32ff9e1ea2ccf87",
+      "audit_events": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "ground_truth": [
+      [
+        "allocation_exceeds_availability",
+        "ALLOC-2026-004224"
+      ],
+      [
+        "demand_double_counted",
+        "DME-DUP-00000001"
+      ],
+      [
+        "overlapping_projects",
+        "ALLOC-2026-004226"
+      ],
+      [
+        "stale_skill_current",
+        "EMP-000001-SKL-000003"
+      ]
+    ],
+    "expected_anomaly_detection": {
+      "expected": [
+        [
+          "allocation_exceeds_availability",
+          "ALLOC-2026-004224"
+        ],
+        [
+          "demand_double_counted",
+          "DME-DUP-00000001"
+        ],
+        [
+          "overlapping_projects",
+          "ALLOC-2026-004226"
+        ],
+        [
+          "stale_skill_current",
+          "EMP-000001-SKL-000003"
+        ]
+      ],
+      "detected": [
+        [
+          "allocation_exceeds_availability",
+          "ALLOC-2026-004224"
+        ],
+        [
+          "demand_double_counted",
+          "DME-DUP-00000001"
+        ],
+        [
+          "overlapping_projects",
+          "ALLOC-2026-004226"
+        ],
+        [
+          "stale_skill_current",
+          "EMP-000001-SKL-000003"
+        ]
+      ],
+      "missing_expected": [],
+      "unexpected": []
+    },
+    "derived_calculations": {
+      "skill_gaps": {
+        "count": 22,
+        "sha256": "02addad531696775a22c6aba937a86877f4dbe3afd1da13a61445d24eb485e8e"
+      },
+      "workforce_utilization": {
+        "count": 5000,
+        "sha256": "0e8a2ce18bb687d6bccd84602af349f8b8771ebd4ddca6428424f3856b9b8fdf"
+      }
+    },
+    "file_checksums": {
+      "exports\\csv\\allocations.csv": "5c46cdb70aa695f20a73e91ddc6111c430bb13aa4a40894eb3f2bc41bade78c8",
+      "exports\\csv\\availability.csv": "f3e19b5b148418d41840cb878f6da05057091b11b47b7863810677a7a7c28ce2",
+      "exports\\csv\\demand_plans.csv": "ed5d05cb14cc0d18aff1753ec4237180128bcf225765310a30d7520f4f760239",
+      "exports\\csv\\employee_skills.csv": "41352e75acba56e003236d48db64962d632afa916909495cd0f9cc62b5071e44",
+      "exports\\csv\\employees.csv": "c34470014a0653dff49c336f039d27cf9bed9cded35769413eeda36dc9c95569",
+      "exports\\csv\\gap_analyses.csv": "de48292a7a270f6a83d6bbf7b6b072c464f97f6cb0dff06e3f4fa97deaf1eb16",
+      "exports\\csv\\projects.csv": "ee8e3d6dc2416f64d5b9151ec966fd223ccd064bb268bfb11f44a30e997fbf6b",
+      "exports\\csv\\roles.csv": "465819db0810a7ee757bc5899da3a95a440d89e90a43c9cf960786788d0e74cc",
+      "exports\\csv\\skills.csv": "a918dfafbca9c2a5dedef3533427b3e7a00c2c3fd0aa6876743a7fb037d96e4f",
+      "exports\\csv\\trainings.csv": "97a20f726e5b19389c373b343c2e9aeee1bb7f9ed601df7a38db8fcdcab5975d",
+      "exports\\json\\allocations.json": "bc065f95ef2c9935133105a7e87fc2d599688fbd2595c1d8cf0e501d28130f68",
+      "exports\\json\\availability.json": "a3aeb38612808a884dcdfaf8eb3578d882ccfbf78d1780a5e68ddc9fe2ed792d",
+      "exports\\json\\demand_plans.json": "01a9834a86eec53df178dc434bd10171a16a620a4060cbf32fd3f23f3d21c348",
+      "exports\\json\\employee_skills.json": "3ea15f7b3d27a413bc21f72f1aee2812330237feb0740b6c27514dd6b5bd707c",
+      "exports\\json\\employees.json": "74c6aac180447ec9e91bf70aee6650ea2b2a91bc999892036319563ad7b6304b",
+      "exports\\json\\gap_analyses.json": "7a562283f3d6be9215e11f1d761ca0dd3165736a6a07d4556e5f46aae76b1320",
+      "exports\\json\\ground_truth.json": "a537d553ff967da07c0011ba089a5d4e5a1e591e761ade9c6081c97e359848ea",
+      "exports\\json\\projects.json": "73485a976a4398a5fbcd24d4ffd4f799045507b25f526ebb4293240892e2d72b",
+      "exports\\json\\roles.json": "b31714e07264deb5b361d90637685ec379eb62694ad400631029b76b0fe9331a",
+      "exports\\json\\skills.json": "63df1b084a08e527039a103ccbab0fff2cd14588b898ee9cc2c945d08e81037e",
+      "exports\\json\\trainings.json": "e2baa7f3c7764904cae7ba1c66e3efea8238aba581900b4a83178ac38786610c",
+      "exports\\source_manifest.md": "455322e8e3b0ac2658a3b21057dba5b99c1da07064f79e1187f7e4ec1fa927fa",
+      "exports\\sql\\workforce_dump.sql": "2ce8a07304b8b63d37305364bfe548633918ae89493cfbce7cb886aba4a1c7f0",
+      "ground_truth\\ground_truth.csv": "195f6a5f3dd309c7e8c179a298400dd47804ef0d760cbb0341a633f5fda44065",
+      "ground_truth\\ground_truth.json": "a537d553ff967da07c0011ba089a5d4e5a1e591e761ade9c6081c97e359848ea"
+    }
+  }
+}

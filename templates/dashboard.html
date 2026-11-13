@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Overview{% endblock %}
+{% block page_heading %}Workforce overview{% endblock %}
+{% block content %}
+<section class="page-intro">
+  <div><h2>Decision-ready workforce planning</h2><p>Capacity, skill coverage and demand outlook for the synthetic planning horizon.</p></div>
+  <span class="date-pill">{{ summary.period_start.strftime('%b %Y') }} planning snapshot</span>
+</section>
+<section class="metric-grid">
+  <article class="metric-card"><span>Employees</span><strong>{{ "{:,}".format(summary.employees) }}</strong><small>Active workforce records</small></article>
+  <article class="metric-card"><span>Projects</span><strong>{{ "{:,}".format(summary.projects) }}</strong><small>Across the planning horizon</small></article>
+  <article class="metric-card"><span>Skills</span><strong>{{ "{:,}".format(summary.skills) }}</strong><small>Tracked in the taxonomy</small></article>
+  <article class="metric-card accent"><span>Planned demand · 52-week horizon</span><strong>{{ "{:,.0f}".format(summary.total_demand_hours) }}<em>hrs</em></strong><small>Weekly records summed once</small></article>
+  <article class="metric-card"><span>Available capacity · {{ summary.period_start.strftime('%b %Y') }}</span><strong>{{ "{:,.0f}".format(summary.available_capacity_hours) }}<em>hrs</em></strong><small>After part-time schedules and leave</small></article>
+  <article class="metric-card"><span>Average utilization · {{ summary.period_start.strftime('%b') }} snapshot</span><strong>{{ summary.average_utilization }}<em>%</em></strong><small>Allocated / effective capacity</small></article>
+  <article class="metric-card"><span>Open skill gaps</span><strong>{{ "{:,}".format(summary.skill_gaps) }}</strong><small>Traceable to demand records</small></article>
+  <article class="metric-card"><span>Hiring shortfall</span><strong>{{ "{:,}".format(summary.hiring_requirements) }}</strong><small>Demand-backed recommendation units</small></article>
+</section>
+<section class="content-grid">
+  <article class="panel panel-wide">
+    <div class="panel-heading"><div><h2>Demand outlook</h2><p>Role-level weekly demand and future model output</p></div><a href="{{ url_for('forecast') }}">Open forecast <span>→</span></a></div>
+    <div class="chart-wrap"><script src="{{ url_for('plotly_js') }}"></script>{{ chart|safe }}</div>
+    <p class="chart-note">Solid traces are synthetic planned demand; dashed traces show backtest or future predictions. Actual observed demand is not supplied.</p>
+  </article>
+  <article class="panel">
+    <div class="panel-heading"><div><h2>Priority projects</h2><p>Current project portfolio</p></div><a href="{{ url_for('projects') }}">All projects →</a></div>
+    <div class="project-list">
+      {% for project in recent_projects %}
+      <div class="project-item"><span class="project-icon">{{ project.name[:1] }}</span><div><strong>{{ project.name }}</strong><small>{{ project.client }} · {{ project.start_date.strftime('%b %d') }} – {{ project.end_date.strftime('%b %d, %Y') }}</small></div><span class="tag tag-{{ project.priority }}">{{ project.priority }}</span></div>
+      {% else %}<p class="empty-state">No projects are available.</p>{% endfor %}
+    </div>
+  </article>
+</section>
+<section class="content-grid lower-grid">
+  <article class="panel"><div class="panel-heading"><div><h2>Utilization distribution</h2><p>Employee view for {{ summary.period_start.strftime('%B') }}</p></div><a href="{{ url_for('utilization') }}">Inspect →</a></div>
+    <div class="distribution">
+      {% set over = summary.utilization_rows|selectattr('classification','equalto','overutilized')|list|length %}
+      {% set normal = summary.utilization_rows|selectattr('classification','equalto','normally utilized')|list|length %}
+      {% set under = summary.utilization_rows|selectattr('classification','equalto','underutilized')|list|length %}
+      <div><span class="dist-dot dot-under"></span><span>Underutilized</span><b>{{ under }}</b></div>
+      <div><span class="dist-dot dot-normal"></span><span>Normally utilized</span><b>{{ normal }}</b></div>
+      <div><span class="dist-dot dot-over"></span><span>Overutilized</span><b>{{ over }}</b></div>
+    </div>
+  </article>
+  <article class="panel"><div class="panel-heading"><div><h2>Integrity monitor</h2><p>Injected cases are evaluated against independent ground truth.</p></div><a href="{{ url_for('anomalies') }}">Review →</a></div>
+    <div class="integrity-summary"><strong>{{ summary.anomalies }}</strong><span>detections in the current dataset</span></div>
+    <p class="muted">Anomaly labels are not used by the detector or forecasting model.</p>
+  </article>
+</section>
+{% endblock %}

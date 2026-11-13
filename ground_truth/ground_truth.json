@@ -1,0 +1,42 @@
+[
+  {
+    "ground_truth_id": "GT-ALLO",
+    "issue_type": "allocation_exceeds_availability",
+    "entity_type": "Allocation",
+    "entity_id": "ALLOC-2026-004224",
+    "expected_detection": "Allocated weekly hours exceed the employee's contracted weekly capacity.",
+    "ground_truth_label": "anomaly",
+    "details": "A labelled 68-hour assignment exceeds the employee's 36-hour weekly capacity; baseline assignments remain unchanged.",
+    "recorded_at": "2026-01-01"
+  },
+  {
+    "ground_truth_id": "GT-DEMA",
+    "issue_type": "demand_double_counted",
+    "entity_type": "DemandImportEvent",
+    "entity_id": "DME-DUP-00000001",
+    "expected_detection": "Repeated source_reference is flagged; demand is counted once by demand_id.",
+    "ground_truth_label": "anomaly",
+    "details": "A second ingestion event repeats source reference DEM-PRJ-2026-000001-2026W01.",
+    "recorded_at": "2026-01-01"
+  },
+  {
+    "ground_truth_id": "GT-OVER",
+    "issue_type": "overlapping_projects",
+    "entity_type": "Allocation",
+    "entity_id": "ALLOC-2026-004226",
+    "expected_detection": "An employee with overlapping date ranges across distinct projects is flagged.",
+    "ground_truth_label": "anomaly",
+    "details": "Allocation pair ALLOC-2026-004225 and ALLOC-2026-004226 shares dates on different projects.",
+    "recorded_at": "2026-01-01"
+  },
+  {
+    "ground_truth_id": "GT-STAL",
+    "issue_type": "stale_skill_current",
+    "entity_type": "EmployeeSkill",
+    "entity_id": "EMP-000001-SKL-000003",
+    "expected_detection": "Skill verification older than 365 days is classified as stale.",
+    "ground_truth_label": "anomaly",
+    "details": "Verification predates the horizon by 900 days while the profile status remains verified.",
+    "recorded_at": "2026-01-01"
+  }
+]

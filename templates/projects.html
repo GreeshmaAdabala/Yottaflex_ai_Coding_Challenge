@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Projects{% endblock %}
+{% block page_heading %}Projects &amp; demand{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>Project portfolio</h2><p>Weekly role and skill demand connected to actual project plans.</p></div></section>
+<section class="panel">
+  <form class="filter-form" method="get"><label for="project-search">Find a project</label><input id="project-search" name="q" value="{{ search }}" placeholder="Project name, client or ID"><button class="button" type="submit">Search</button></form>
+  <div class="table-scroll"><table><thead><tr><th>Project</th><th>Client</th><th>Timeline</th><th>Demand records</th><th>Horizon demand</th><th>Priority</th><th>Status</th></tr></thead><tbody>
+  {% for project in projects %}<tr><td><strong>{{ project.name }}</strong><small>{{ project.project_id }}</small></td><td>{{ project.client }}</td><td>{{ project.start_date }} – {{ project.end_date }}</td><td>{{ project.demand|length }}</td><td>{{ project.demand|sum(attribute='required_hours')|round|int }} hrs</td><td><span class="tag tag-{{ project.priority }}">{{ project.priority }}</span></td><td>{{ project.status }}</td></tr>{% else %}<tr><td colspan="7" class="empty-state">No projects found.</td></tr>{% endfor %}
+  </tbody></table></div>
+  <div class="pagination"><span>Page {{ pagination.page }} of {{ pagination.pages or 1 }} · {{ pagination.total }} projects</span><div>{% if pagination.has_prev %}<a class="button button-light" href="{{ url_for('projects', q=search, page=pagination.prev_num) }}">Previous</a>{% endif %}{% if pagination.has_next %}<a class="button button-light" href="{{ url_for('projects', q=search, page=pagination.next_num) }}">Next</a>{% endif %}</div></div>
+</section>
+{% endblock %}

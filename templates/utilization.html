@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Utilization{% endblock %}
+{% block page_heading %}Utilization analysis{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>Capacity against assignment</h2><p>Effective capacity accounts for part-time weekly hours and recorded leave; allocations are prorated by overlapping days.</p></div><span class="date-pill">{{ pagination.total }} active employees</span></section>
+<section class="panel">
+  <form class="filter-form" method="get"><label for="util-search">Filter workforce</label><input id="util-search" name="q" value="{{ search }}" placeholder="Name or employee ID"><button class="button" type="submit">Apply filter</button></form>
+  <div class="table-scroll"><table><thead><tr><th>Employee</th><th>Effective capacity</th><th>Allocated</th><th>Utilization</th><th>Classification</th></tr></thead><tbody>
+  {% for row in rows %}<tr><td><a class="table-link" href="{{ url_for('employee_detail', employee_id=row.employee_id) }}">{{ row.employee_id }}</a></td><td>{{ row.available_hours }} hrs</td><td>{{ row.allocated_hours }} hrs</td><td><div class="util-cell"><span class="progress-track"><span style="width: {{ [row.utilization_pct, 100]|min }}%"></span></span><b>{{ row.utilization_pct }}%</b></div></td><td><span class="tag {% if row.classification=='overutilized' %}tag-critical{% elif row.classification=='underutilized' %}tag-low{% else %}tag-active{% endif %}">{{ row.classification }}</span></td></tr>{% else %}<tr><td colspan="5" class="empty-state">No employee records.</td></tr>{% endfor %}
+  </tbody></table></div>
+  <div class="pagination"><span>Page {{ pagination.page }} of {{ pagination.pages or 1 }}</span><div>{% if pagination.has_prev %}<a class="button button-light" href="{{ url_for('utilization', q=search, page=pagination.prev_num) }}">Previous</a>{% endif %}{% if pagination.has_next %}<a class="button button-light" href="{{ url_for('utilization', q=search, page=pagination.next_num) }}">Next</a>{% endif %}</div></div>
+</section>
+{% endblock %}

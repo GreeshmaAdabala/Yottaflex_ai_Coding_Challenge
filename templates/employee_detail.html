@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ employee.full_name }}{% endblock %}
+{% block page_heading %}Employee profile{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>{{ employee.full_name }}</h2><p>{{ employee.employee_id }} · {{ employee.role.name }} · {{ employee.experience_years }} years of experience</p></div><a class="button button-light" href="{{ url_for('employees') }}">← Employee directory</a></section>
+<section class="metric-grid detail-metrics">
+  <article class="metric-card"><span>Weekly schedule</span><strong>{{ employee.weekly_hours|int }}<em>hrs</em></strong><small>{{ employee.employment_type|replace('_',' ') }}</small></article>
+  <article class="metric-card"><span>Current utilization</span><strong>{{ utilization.utilization_pct if utilization else 0 }}<em>%</em></strong><small>{{ utilization.classification if utilization else 'No capacity record' }}</small></article>
+  <article class="metric-card"><span>Effective capacity</span><strong>{{ utilization.available_hours if utilization else 0 }}<em>hrs</em></strong><small>After recorded leave</small></article>
+  <article class="metric-card"><span>Assignments</span><strong>{{ allocations|length }}</strong><small>Historical and active allocations</small></article>
+</section>
+<section class="content-grid">
+  <article class="panel"><div class="panel-heading"><div><h2>Skill profile</h2><p>Verification compared with {{ as_of }}</p></div></div>
+    <div class="table-scroll"><table><thead><tr><th>Skill</th><th>Proficiency</th><th>Verified</th><th>Expiry</th><th>Status</th></tr></thead><tbody>
+    {% for profile in employee.skills %}<tr><td>{{ profile.skill.name }}</td><td><span class="level-meter">{{ profile.proficiency }}/5</span></td><td>{{ profile.verified_on }}</td><td>{{ profile.expires_on or 'No expiry' }}</td><td>{% if profile.verified_on < as_of - timedelta(days=365) or (profile.expires_on and profile.expires_on < as_of) %}<span class="tag tag-critical">Stale</span>{% else %}<span class="tag tag-active">Verified</span>{% endif %}</td></tr>
+    {% else %}<tr><td colspan="5" class="empty-state">No skills are recorded.</td></tr>{% endfor %}
+    </tbody></table></div>
+  </article>
+  <article class="panel"><div class="panel-heading"><div><h2>Availability &amp; learning</h2><p>Recent monthly records</p></div></div>
+    {% for row in availability %}<div class="mini-row"><span>{{ row.period_start.strftime('%b %Y') }}</span><strong>{{ (row.capacity_hours-row.leave_hours)|round(1) }} hrs</strong><small>{{ row.leave_hours|round(1) }} leave</small></div>{% else %}<p class="empty-state">No availability records.</p>{% endfor %}
+    <h3 class="subheading">Training</h3>
+    {% for training in trainings %}<div class="mini-row"><span>{{ training.skill.name }}</span><strong>{{ training.hours|int }} hrs</strong><small>{{ training.status }}</small></div>{% else %}<p class="muted">No training records.</p>{% endfor %}
+  </article>
+</section>
+<section class="panel"><div class="panel-heading"><div><h2>Project allocation history</h2><p>Weekly assigned hours with effective dates</p></div></div>
+  <div class="table-scroll"><table><thead><tr><th>Project</th><th>Start</th><th>End</th><th>Weekly hours</th><th>Status</th></tr></thead><tbody>{% for allocation in allocations %}<tr><td>{{ allocation.project.name }}</td><td>{{ allocation.start_date }}</td><td>{{ allocation.end_date }}</td><td>{{ allocation.weekly_hours }}</td><td>{{ allocation.status }}</td></tr>{% else %}<tr><td colspan="5" class="empty-state">No assignments.</td></tr>{% endfor %}</tbody></table></div>
+</section>
+{% endblock %}

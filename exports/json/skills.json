@@ -1,0 +1,2102 @@
+[
+  {
+    "skill_id": "SKL-000001",
+    "name": "Python Foundations",
+    "category": "Python",
+    "description": "Synthetic capability for python foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000002",
+    "name": "Python Modeling",
+    "category": "Python",
+    "description": "Synthetic capability for python modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000003",
+    "name": "Python Automation",
+    "category": "Python",
+    "description": "Synthetic capability for python automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000004",
+    "name": "Python Architecture",
+    "category": "Python",
+    "description": "Synthetic capability for python architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000005",
+    "name": "Python Analytics",
+    "category": "Python",
+    "description": "Synthetic capability for python analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000006",
+    "name": "Python Optimization",
+    "category": "Python",
+    "description": "Synthetic capability for python optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000007",
+    "name": "Python Governance",
+    "category": "Python",
+    "description": "Synthetic capability for python governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000008",
+    "name": "Python Deployment",
+    "category": "Python",
+    "description": "Synthetic capability for python deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000009",
+    "name": "Python Research",
+    "category": "Python",
+    "description": "Synthetic capability for python research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000010",
+    "name": "Python Integration",
+    "category": "Python",
+    "description": "Synthetic capability for python integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000011",
+    "name": "Python Quality",
+    "category": "Python",
+    "description": "Synthetic capability for python quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000012",
+    "name": "Python Strategy",
+    "category": "Python",
+    "description": "Synthetic capability for python strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000013",
+    "name": "Python Monitoring",
+    "category": "Python",
+    "description": "Synthetic capability for python monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000014",
+    "name": "Python Engineering",
+    "category": "Python",
+    "description": "Synthetic capability for python engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000015",
+    "name": "Python Operations",
+    "category": "Python",
+    "description": "Synthetic capability for python operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000016",
+    "name": "SQL Foundations",
+    "category": "SQL",
+    "description": "Synthetic capability for sql foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000017",
+    "name": "SQL Modeling",
+    "category": "SQL",
+    "description": "Synthetic capability for sql modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000018",
+    "name": "SQL Automation",
+    "category": "SQL",
+    "description": "Synthetic capability for sql automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000019",
+    "name": "SQL Architecture",
+    "category": "SQL",
+    "description": "Synthetic capability for sql architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000020",
+    "name": "SQL Analytics",
+    "category": "SQL",
+    "description": "Synthetic capability for sql analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000021",
+    "name": "SQL Optimization",
+    "category": "SQL",
+    "description": "Synthetic capability for sql optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000022",
+    "name": "SQL Governance",
+    "category": "SQL",
+    "description": "Synthetic capability for sql governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000023",
+    "name": "SQL Deployment",
+    "category": "SQL",
+    "description": "Synthetic capability for sql deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000024",
+    "name": "SQL Research",
+    "category": "SQL",
+    "description": "Synthetic capability for sql research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000025",
+    "name": "SQL Integration",
+    "category": "SQL",
+    "description": "Synthetic capability for sql integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000026",
+    "name": "SQL Quality",
+    "category": "SQL",
+    "description": "Synthetic capability for sql quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000027",
+    "name": "SQL Strategy",
+    "category": "SQL",
+    "description": "Synthetic capability for sql strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000028",
+    "name": "SQL Monitoring",
+    "category": "SQL",
+    "description": "Synthetic capability for sql monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000029",
+    "name": "SQL Engineering",
+    "category": "SQL",
+    "description": "Synthetic capability for sql engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000030",
+    "name": "SQL Operations",
+    "category": "SQL",
+    "description": "Synthetic capability for sql operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000031",
+    "name": "Machine Learning Foundations",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000032",
+    "name": "Machine Learning Modeling",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000033",
+    "name": "Machine Learning Automation",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000034",
+    "name": "Machine Learning Architecture",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000035",
+    "name": "Machine Learning Analytics",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000036",
+    "name": "Machine Learning Optimization",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000037",
+    "name": "Machine Learning Governance",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000038",
+    "name": "Machine Learning Deployment",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000039",
+    "name": "Machine Learning Research",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000040",
+    "name": "Machine Learning Integration",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000041",
+    "name": "Machine Learning Quality",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000042",
+    "name": "Machine Learning Strategy",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000043",
+    "name": "Machine Learning Monitoring",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000044",
+    "name": "Machine Learning Engineering",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000045",
+    "name": "Machine Learning Operations",
+    "category": "Machine",
+    "description": "Synthetic capability for machine learning operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000046",
+    "name": "Cloud Foundations",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000047",
+    "name": "Cloud Modeling",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000048",
+    "name": "Cloud Automation",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000049",
+    "name": "Cloud Architecture",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000050",
+    "name": "Cloud Analytics",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000051",
+    "name": "Cloud Optimization",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000052",
+    "name": "Cloud Governance",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000053",
+    "name": "Cloud Deployment",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000054",
+    "name": "Cloud Research",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000055",
+    "name": "Cloud Integration",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000056",
+    "name": "Cloud Quality",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000057",
+    "name": "Cloud Strategy",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000058",
+    "name": "Cloud Monitoring",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000059",
+    "name": "Cloud Engineering",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000060",
+    "name": "Cloud Operations",
+    "category": "Cloud",
+    "description": "Synthetic capability for cloud operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000061",
+    "name": "Data Engineering Foundations",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000062",
+    "name": "Data Engineering Modeling",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000063",
+    "name": "Data Engineering Automation",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000064",
+    "name": "Data Engineering Architecture",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000065",
+    "name": "Data Engineering Analytics",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000066",
+    "name": "Data Engineering Optimization",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000067",
+    "name": "Data Engineering Governance",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000068",
+    "name": "Data Engineering Deployment",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000069",
+    "name": "Data Engineering Research",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000070",
+    "name": "Data Engineering Integration",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000071",
+    "name": "Data Engineering Quality",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000072",
+    "name": "Data Engineering Strategy",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000073",
+    "name": "Data Engineering Monitoring",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000074",
+    "name": "Data Engineering Engineering",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000075",
+    "name": "Data Engineering Operations",
+    "category": "Data",
+    "description": "Synthetic capability for data engineering operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000076",
+    "name": "Visualization Foundations",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000077",
+    "name": "Visualization Modeling",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000078",
+    "name": "Visualization Automation",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000079",
+    "name": "Visualization Architecture",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000080",
+    "name": "Visualization Analytics",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000081",
+    "name": "Visualization Optimization",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000082",
+    "name": "Visualization Governance",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000083",
+    "name": "Visualization Deployment",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000084",
+    "name": "Visualization Research",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000085",
+    "name": "Visualization Integration",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000086",
+    "name": "Visualization Quality",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000087",
+    "name": "Visualization Strategy",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000088",
+    "name": "Visualization Monitoring",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000089",
+    "name": "Visualization Engineering",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000090",
+    "name": "Visualization Operations",
+    "category": "Visualization",
+    "description": "Synthetic capability for visualization operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000091",
+    "name": "Statistics Foundations",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000092",
+    "name": "Statistics Modeling",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000093",
+    "name": "Statistics Automation",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000094",
+    "name": "Statistics Architecture",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000095",
+    "name": "Statistics Analytics",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000096",
+    "name": "Statistics Optimization",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000097",
+    "name": "Statistics Governance",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000098",
+    "name": "Statistics Deployment",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000099",
+    "name": "Statistics Research",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000100",
+    "name": "Statistics Integration",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000101",
+    "name": "Statistics Quality",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000102",
+    "name": "Statistics Strategy",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000103",
+    "name": "Statistics Monitoring",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000104",
+    "name": "Statistics Engineering",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000105",
+    "name": "Statistics Operations",
+    "category": "Statistics",
+    "description": "Synthetic capability for statistics operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000106",
+    "name": "Product Foundations",
+    "category": "Product",
+    "description": "Synthetic capability for product foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000107",
+    "name": "Product Modeling",
+    "category": "Product",
+    "description": "Synthetic capability for product modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000108",
+    "name": "Product Automation",
+    "category": "Product",
+    "description": "Synthetic capability for product automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000109",
+    "name": "Product Architecture",
+    "category": "Product",
+    "description": "Synthetic capability for product architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000110",
+    "name": "Product Analytics",
+    "category": "Product",
+    "description": "Synthetic capability for product analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000111",
+    "name": "Product Optimization",
+    "category": "Product",
+    "description": "Synthetic capability for product optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000112",
+    "name": "Product Governance",
+    "category": "Product",
+    "description": "Synthetic capability for product governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000113",
+    "name": "Product Deployment",
+    "category": "Product",
+    "description": "Synthetic capability for product deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000114",
+    "name": "Product Research",
+    "category": "Product",
+    "description": "Synthetic capability for product research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000115",
+    "name": "Product Integration",
+    "category": "Product",
+    "description": "Synthetic capability for product integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000116",
+    "name": "Product Quality",
+    "category": "Product",
+    "description": "Synthetic capability for product quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000117",
+    "name": "Product Strategy",
+    "category": "Product",
+    "description": "Synthetic capability for product strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000118",
+    "name": "Product Monitoring",
+    "category": "Product",
+    "description": "Synthetic capability for product monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000119",
+    "name": "Product Engineering",
+    "category": "Product",
+    "description": "Synthetic capability for product engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000120",
+    "name": "Product Operations",
+    "category": "Product",
+    "description": "Synthetic capability for product operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000121",
+    "name": "Agile Foundations",
+    "category": "Agile",
+    "description": "Synthetic capability for agile foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000122",
+    "name": "Agile Modeling",
+    "category": "Agile",
+    "description": "Synthetic capability for agile modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000123",
+    "name": "Agile Automation",
+    "category": "Agile",
+    "description": "Synthetic capability for agile automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000124",
+    "name": "Agile Architecture",
+    "category": "Agile",
+    "description": "Synthetic capability for agile architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000125",
+    "name": "Agile Analytics",
+    "category": "Agile",
+    "description": "Synthetic capability for agile analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000126",
+    "name": "Agile Optimization",
+    "category": "Agile",
+    "description": "Synthetic capability for agile optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000127",
+    "name": "Agile Governance",
+    "category": "Agile",
+    "description": "Synthetic capability for agile governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000128",
+    "name": "Agile Deployment",
+    "category": "Agile",
+    "description": "Synthetic capability for agile deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000129",
+    "name": "Agile Research",
+    "category": "Agile",
+    "description": "Synthetic capability for agile research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000130",
+    "name": "Agile Integration",
+    "category": "Agile",
+    "description": "Synthetic capability for agile integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000131",
+    "name": "Agile Quality",
+    "category": "Agile",
+    "description": "Synthetic capability for agile quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000132",
+    "name": "Agile Strategy",
+    "category": "Agile",
+    "description": "Synthetic capability for agile strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000133",
+    "name": "Agile Monitoring",
+    "category": "Agile",
+    "description": "Synthetic capability for agile monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000134",
+    "name": "Agile Engineering",
+    "category": "Agile",
+    "description": "Synthetic capability for agile engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000135",
+    "name": "Agile Operations",
+    "category": "Agile",
+    "description": "Synthetic capability for agile operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000136",
+    "name": "Security Foundations",
+    "category": "Security",
+    "description": "Synthetic capability for security foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000137",
+    "name": "Security Modeling",
+    "category": "Security",
+    "description": "Synthetic capability for security modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000138",
+    "name": "Security Automation",
+    "category": "Security",
+    "description": "Synthetic capability for security automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000139",
+    "name": "Security Architecture",
+    "category": "Security",
+    "description": "Synthetic capability for security architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000140",
+    "name": "Security Analytics",
+    "category": "Security",
+    "description": "Synthetic capability for security analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000141",
+    "name": "Security Optimization",
+    "category": "Security",
+    "description": "Synthetic capability for security optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000142",
+    "name": "Security Governance",
+    "category": "Security",
+    "description": "Synthetic capability for security governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000143",
+    "name": "Security Deployment",
+    "category": "Security",
+    "description": "Synthetic capability for security deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000144",
+    "name": "Security Research",
+    "category": "Security",
+    "description": "Synthetic capability for security research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000145",
+    "name": "Security Integration",
+    "category": "Security",
+    "description": "Synthetic capability for security integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000146",
+    "name": "Security Quality",
+    "category": "Security",
+    "description": "Synthetic capability for security quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000147",
+    "name": "Security Strategy",
+    "category": "Security",
+    "description": "Synthetic capability for security strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000148",
+    "name": "Security Monitoring",
+    "category": "Security",
+    "description": "Synthetic capability for security monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000149",
+    "name": "Security Engineering",
+    "category": "Security",
+    "description": "Synthetic capability for security engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000150",
+    "name": "Security Operations",
+    "category": "Security",
+    "description": "Synthetic capability for security operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000151",
+    "name": "JavaScript Foundations",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000152",
+    "name": "JavaScript Modeling",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000153",
+    "name": "JavaScript Automation",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000154",
+    "name": "JavaScript Architecture",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000155",
+    "name": "JavaScript Analytics",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000156",
+    "name": "JavaScript Optimization",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000157",
+    "name": "JavaScript Governance",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000158",
+    "name": "JavaScript Deployment",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000159",
+    "name": "JavaScript Research",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000160",
+    "name": "JavaScript Integration",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000161",
+    "name": "JavaScript Quality",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000162",
+    "name": "JavaScript Strategy",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000163",
+    "name": "JavaScript Monitoring",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000164",
+    "name": "JavaScript Engineering",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000165",
+    "name": "JavaScript Operations",
+    "category": "JavaScript",
+    "description": "Synthetic capability for javascript operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000166",
+    "name": "Java Foundations",
+    "category": "Java",
+    "description": "Synthetic capability for java foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000167",
+    "name": "Java Modeling",
+    "category": "Java",
+    "description": "Synthetic capability for java modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000168",
+    "name": "Java Automation",
+    "category": "Java",
+    "description": "Synthetic capability for java automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000169",
+    "name": "Java Architecture",
+    "category": "Java",
+    "description": "Synthetic capability for java architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000170",
+    "name": "Java Analytics",
+    "category": "Java",
+    "description": "Synthetic capability for java analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000171",
+    "name": "Java Optimization",
+    "category": "Java",
+    "description": "Synthetic capability for java optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000172",
+    "name": "Java Governance",
+    "category": "Java",
+    "description": "Synthetic capability for java governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000173",
+    "name": "Java Deployment",
+    "category": "Java",
+    "description": "Synthetic capability for java deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000174",
+    "name": "Java Research",
+    "category": "Java",
+    "description": "Synthetic capability for java research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000175",
+    "name": "Java Integration",
+    "category": "Java",
+    "description": "Synthetic capability for java integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000176",
+    "name": "Java Quality",
+    "category": "Java",
+    "description": "Synthetic capability for java quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000177",
+    "name": "Java Strategy",
+    "category": "Java",
+    "description": "Synthetic capability for java strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000178",
+    "name": "Java Monitoring",
+    "category": "Java",
+    "description": "Synthetic capability for java monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000179",
+    "name": "Java Engineering",
+    "category": "Java",
+    "description": "Synthetic capability for java engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000180",
+    "name": "Java Operations",
+    "category": "Java",
+    "description": "Synthetic capability for java operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000181",
+    "name": "Infrastructure Foundations",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000182",
+    "name": "Infrastructure Modeling",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000183",
+    "name": "Infrastructure Automation",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000184",
+    "name": "Infrastructure Architecture",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000185",
+    "name": "Infrastructure Analytics",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000186",
+    "name": "Infrastructure Optimization",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000187",
+    "name": "Infrastructure Governance",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000188",
+    "name": "Infrastructure Deployment",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000189",
+    "name": "Infrastructure Research",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000190",
+    "name": "Infrastructure Integration",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000191",
+    "name": "Infrastructure Quality",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000192",
+    "name": "Infrastructure Strategy",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000193",
+    "name": "Infrastructure Monitoring",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000194",
+    "name": "Infrastructure Engineering",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000195",
+    "name": "Infrastructure Operations",
+    "category": "Infrastructure",
+    "description": "Synthetic capability for infrastructure operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000196",
+    "name": "Design Foundations",
+    "category": "Design",
+    "description": "Synthetic capability for design foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000197",
+    "name": "Design Modeling",
+    "category": "Design",
+    "description": "Synthetic capability for design modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000198",
+    "name": "Design Automation",
+    "category": "Design",
+    "description": "Synthetic capability for design automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000199",
+    "name": "Design Architecture",
+    "category": "Design",
+    "description": "Synthetic capability for design architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000200",
+    "name": "Design Analytics",
+    "category": "Design",
+    "description": "Synthetic capability for design analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000201",
+    "name": "Design Optimization",
+    "category": "Design",
+    "description": "Synthetic capability for design optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000202",
+    "name": "Design Governance",
+    "category": "Design",
+    "description": "Synthetic capability for design governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000203",
+    "name": "Design Deployment",
+    "category": "Design",
+    "description": "Synthetic capability for design deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000204",
+    "name": "Design Research",
+    "category": "Design",
+    "description": "Synthetic capability for design research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000205",
+    "name": "Design Integration",
+    "category": "Design",
+    "description": "Synthetic capability for design integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000206",
+    "name": "Design Quality",
+    "category": "Design",
+    "description": "Synthetic capability for design quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000207",
+    "name": "Design Strategy",
+    "category": "Design",
+    "description": "Synthetic capability for design strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000208",
+    "name": "Design Monitoring",
+    "category": "Design",
+    "description": "Synthetic capability for design monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000209",
+    "name": "Design Engineering",
+    "category": "Design",
+    "description": "Synthetic capability for design engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000210",
+    "name": "Design Operations",
+    "category": "Design",
+    "description": "Synthetic capability for design operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000211",
+    "name": "Communication Foundations",
+    "category": "Communication",
+    "description": "Synthetic capability for communication foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000212",
+    "name": "Communication Modeling",
+    "category": "Communication",
+    "description": "Synthetic capability for communication modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000213",
+    "name": "Communication Automation",
+    "category": "Communication",
+    "description": "Synthetic capability for communication automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000214",
+    "name": "Communication Architecture",
+    "category": "Communication",
+    "description": "Synthetic capability for communication architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000215",
+    "name": "Communication Analytics",
+    "category": "Communication",
+    "description": "Synthetic capability for communication analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000216",
+    "name": "Communication Optimization",
+    "category": "Communication",
+    "description": "Synthetic capability for communication optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000217",
+    "name": "Communication Governance",
+    "category": "Communication",
+    "description": "Synthetic capability for communication governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000218",
+    "name": "Communication Deployment",
+    "category": "Communication",
+    "description": "Synthetic capability for communication deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000219",
+    "name": "Communication Research",
+    "category": "Communication",
+    "description": "Synthetic capability for communication research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000220",
+    "name": "Communication Integration",
+    "category": "Communication",
+    "description": "Synthetic capability for communication integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000221",
+    "name": "Communication Quality",
+    "category": "Communication",
+    "description": "Synthetic capability for communication quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000222",
+    "name": "Communication Strategy",
+    "category": "Communication",
+    "description": "Synthetic capability for communication strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000223",
+    "name": "Communication Monitoring",
+    "category": "Communication",
+    "description": "Synthetic capability for communication monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000224",
+    "name": "Communication Engineering",
+    "category": "Communication",
+    "description": "Synthetic capability for communication engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000225",
+    "name": "Communication Operations",
+    "category": "Communication",
+    "description": "Synthetic capability for communication operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000226",
+    "name": "Testing Foundations",
+    "category": "Testing",
+    "description": "Synthetic capability for testing foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000227",
+    "name": "Testing Modeling",
+    "category": "Testing",
+    "description": "Synthetic capability for testing modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000228",
+    "name": "Testing Automation",
+    "category": "Testing",
+    "description": "Synthetic capability for testing automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000229",
+    "name": "Testing Architecture",
+    "category": "Testing",
+    "description": "Synthetic capability for testing architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000230",
+    "name": "Testing Analytics",
+    "category": "Testing",
+    "description": "Synthetic capability for testing analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000231",
+    "name": "Testing Optimization",
+    "category": "Testing",
+    "description": "Synthetic capability for testing optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000232",
+    "name": "Testing Governance",
+    "category": "Testing",
+    "description": "Synthetic capability for testing governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000233",
+    "name": "Testing Deployment",
+    "category": "Testing",
+    "description": "Synthetic capability for testing deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000234",
+    "name": "Testing Research",
+    "category": "Testing",
+    "description": "Synthetic capability for testing research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000235",
+    "name": "Testing Integration",
+    "category": "Testing",
+    "description": "Synthetic capability for testing integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000236",
+    "name": "Testing Quality",
+    "category": "Testing",
+    "description": "Synthetic capability for testing quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000237",
+    "name": "Testing Strategy",
+    "category": "Testing",
+    "description": "Synthetic capability for testing strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000238",
+    "name": "Testing Monitoring",
+    "category": "Testing",
+    "description": "Synthetic capability for testing monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000239",
+    "name": "Testing Engineering",
+    "category": "Testing",
+    "description": "Synthetic capability for testing engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000240",
+    "name": "Testing Operations",
+    "category": "Testing",
+    "description": "Synthetic capability for testing operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000241",
+    "name": "Natural Language Processing Foundations",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000242",
+    "name": "Natural Language Processing Modeling",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000243",
+    "name": "Natural Language Processing Automation",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000244",
+    "name": "Natural Language Processing Architecture",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000245",
+    "name": "Natural Language Processing Analytics",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000246",
+    "name": "Natural Language Processing Optimization",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000247",
+    "name": "Natural Language Processing Governance",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000248",
+    "name": "Natural Language Processing Deployment",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000249",
+    "name": "Natural Language Processing Research",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000250",
+    "name": "Natural Language Processing Integration",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000251",
+    "name": "Natural Language Processing Quality",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000252",
+    "name": "Natural Language Processing Strategy",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000253",
+    "name": "Natural Language Processing Monitoring",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000254",
+    "name": "Natural Language Processing Engineering",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000255",
+    "name": "Natural Language Processing Operations",
+    "category": "Natural",
+    "description": "Synthetic capability for natural language processing operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000256",
+    "name": "Databases Foundations",
+    "category": "Databases",
+    "description": "Synthetic capability for databases foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000257",
+    "name": "Databases Modeling",
+    "category": "Databases",
+    "description": "Synthetic capability for databases modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000258",
+    "name": "Databases Automation",
+    "category": "Databases",
+    "description": "Synthetic capability for databases automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000259",
+    "name": "Databases Architecture",
+    "category": "Databases",
+    "description": "Synthetic capability for databases architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000260",
+    "name": "Databases Analytics",
+    "category": "Databases",
+    "description": "Synthetic capability for databases analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000261",
+    "name": "Databases Optimization",
+    "category": "Databases",
+    "description": "Synthetic capability for databases optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000262",
+    "name": "Databases Governance",
+    "category": "Databases",
+    "description": "Synthetic capability for databases governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000263",
+    "name": "Databases Deployment",
+    "category": "Databases",
+    "description": "Synthetic capability for databases deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000264",
+    "name": "Databases Research",
+    "category": "Databases",
+    "description": "Synthetic capability for databases research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000265",
+    "name": "Databases Integration",
+    "category": "Databases",
+    "description": "Synthetic capability for databases integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000266",
+    "name": "Databases Quality",
+    "category": "Databases",
+    "description": "Synthetic capability for databases quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000267",
+    "name": "Databases Strategy",
+    "category": "Databases",
+    "description": "Synthetic capability for databases strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000268",
+    "name": "Databases Monitoring",
+    "category": "Databases",
+    "description": "Synthetic capability for databases monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000269",
+    "name": "Databases Engineering",
+    "category": "Databases",
+    "description": "Synthetic capability for databases engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000270",
+    "name": "Databases Operations",
+    "category": "Databases",
+    "description": "Synthetic capability for databases operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000271",
+    "name": "DevOps Foundations",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000272",
+    "name": "DevOps Modeling",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000273",
+    "name": "DevOps Automation",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000274",
+    "name": "DevOps Architecture",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000275",
+    "name": "DevOps Analytics",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000276",
+    "name": "DevOps Optimization",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000277",
+    "name": "DevOps Governance",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000278",
+    "name": "DevOps Deployment",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000279",
+    "name": "DevOps Research",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000280",
+    "name": "DevOps Integration",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000281",
+    "name": "DevOps Quality",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000282",
+    "name": "DevOps Strategy",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000283",
+    "name": "DevOps Monitoring",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000284",
+    "name": "DevOps Engineering",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000285",
+    "name": "DevOps Operations",
+    "category": "DevOps",
+    "description": "Synthetic capability for devops operations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000286",
+    "name": "AI Foundations",
+    "category": "AI",
+    "description": "Synthetic capability for ai foundations.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000287",
+    "name": "AI Modeling",
+    "category": "AI",
+    "description": "Synthetic capability for ai modeling.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000288",
+    "name": "AI Automation",
+    "category": "AI",
+    "description": "Synthetic capability for ai automation.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000289",
+    "name": "AI Architecture",
+    "category": "AI",
+    "description": "Synthetic capability for ai architecture.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000290",
+    "name": "AI Analytics",
+    "category": "AI",
+    "description": "Synthetic capability for ai analytics.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000291",
+    "name": "AI Optimization",
+    "category": "AI",
+    "description": "Synthetic capability for ai optimization.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000292",
+    "name": "AI Governance",
+    "category": "AI",
+    "description": "Synthetic capability for ai governance.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000293",
+    "name": "AI Deployment",
+    "category": "AI",
+    "description": "Synthetic capability for ai deployment.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000294",
+    "name": "AI Research",
+    "category": "AI",
+    "description": "Synthetic capability for ai research.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000295",
+    "name": "AI Integration",
+    "category": "AI",
+    "description": "Synthetic capability for ai integration.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000296",
+    "name": "AI Quality",
+    "category": "AI",
+    "description": "Synthetic capability for ai quality.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000297",
+    "name": "AI Strategy",
+    "category": "AI",
+    "description": "Synthetic capability for ai strategy.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000298",
+    "name": "AI Monitoring",
+    "category": "AI",
+    "description": "Synthetic capability for ai monitoring.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000299",
+    "name": "AI Engineering",
+    "category": "AI",
+    "description": "Synthetic capability for ai engineering.",
+    "lifecycle_state": "active"
+  },
+  {
+    "skill_id": "SKL-000300",
+    "name": "AI Operations",
+    "category": "AI",
+    "description": "Synthetic capability for ai operations.",
+    "lifecycle_state": "active"
+  }
+]

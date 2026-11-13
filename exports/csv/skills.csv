@@ -1,0 +1,301 @@
+skill_id,name,category,description,lifecycle_state
+SKL-000001,Python Foundations,Python,Synthetic capability for python foundations.,active
+SKL-000002,Python Modeling,Python,Synthetic capability for python modeling.,active
+SKL-000003,Python Automation,Python,Synthetic capability for python automation.,active
+SKL-000004,Python Architecture,Python,Synthetic capability for python architecture.,active
+SKL-000005,Python Analytics,Python,Synthetic capability for python analytics.,active
+SKL-000006,Python Optimization,Python,Synthetic capability for python optimization.,active
+SKL-000007,Python Governance,Python,Synthetic capability for python governance.,active
+SKL-000008,Python Deployment,Python,Synthetic capability for python deployment.,active
+SKL-000009,Python Research,Python,Synthetic capability for python research.,active
+SKL-000010,Python Integration,Python,Synthetic capability for python integration.,active
+SKL-000011,Python Quality,Python,Synthetic capability for python quality.,active
+SKL-000012,Python Strategy,Python,Synthetic capability for python strategy.,active
+SKL-000013,Python Monitoring,Python,Synthetic capability for python monitoring.,active
+SKL-000014,Python Engineering,Python,Synthetic capability for python engineering.,active
+SKL-000015,Python Operations,Python,Synthetic capability for python operations.,active
+SKL-000016,SQL Foundations,SQL,Synthetic capability for sql foundations.,active
+SKL-000017,SQL Modeling,SQL,Synthetic capability for sql modeling.,active
+SKL-000018,SQL Automation,SQL,Synthetic capability for sql automation.,active
+SKL-000019,SQL Architecture,SQL,Synthetic capability for sql architecture.,active
+SKL-000020,SQL Analytics,SQL,Synthetic capability for sql analytics.,active
+SKL-000021,SQL Optimization,SQL,Synthetic capability for sql optimization.,active
+SKL-000022,SQL Governance,SQL,Synthetic capability for sql governance.,active
+SKL-000023,SQL Deployment,SQL,Synthetic capability for sql deployment.,active
+SKL-000024,SQL Research,SQL,Synthetic capability for sql research.,active
+SKL-000025,SQL Integration,SQL,Synthetic capability for sql integration.,active
+SKL-000026,SQL Quality,SQL,Synthetic capability for sql quality.,active
+SKL-000027,SQL Strategy,SQL,Synthetic capability for sql strategy.,active
+SKL-000028,SQL Monitoring,SQL,Synthetic capability for sql monitoring.,active
+SKL-000029,SQL Engineering,SQL,Synthetic capability for sql engineering.,active
+SKL-000030,SQL Operations,SQL,Synthetic capability for sql operations.,active
+SKL-000031,Machine Learning Foundations,Machine,Synthetic capability for machine learning foundations.,active
+SKL-000032,Machine Learning Modeling,Machine,Synthetic capability for machine learning modeling.,active
+SKL-000033,Machine Learning Automation,Machine,Synthetic capability for machine learning automation.,active
+SKL-000034,Machine Learning Architecture,Machine,Synthetic capability for machine learning architecture.,active
+SKL-000035,Machine Learning Analytics,Machine,Synthetic capability for machine learning analytics.,active
+SKL-000036,Machine Learning Optimization,Machine,Synthetic capability for machine learning optimization.,active
+SKL-000037,Machine Learning Governance,Machine,Synthetic capability for machine learning governance.,active
+SKL-000038,Machine Learning Deployment,Machine,Synthetic capability for machine learning deployment.,active
+SKL-000039,Machine Learning Research,Machine,Synthetic capability for machine learning research.,active
+SKL-000040,Machine Learning Integration,Machine,Synthetic capability for machine learning integration.,active
+SKL-000041,Machine Learning Quality,Machine,Synthetic capability for machine learning quality.,active
+SKL-000042,Machine Learning Strategy,Machine,Synthetic capability for machine learning strategy.,active
+SKL-000043,Machine Learning Monitoring,Machine,Synthetic capability for machine learning monitoring.,active
+SKL-000044,Machine Learning Engineering,Machine,Synthetic capability for machine learning engineering.,active
+SKL-000045,Machine Learning Operations,Machine,Synthetic capability for machine learning operations.,active
+SKL-000046,Cloud Foundations,Cloud,Synthetic capability for cloud foundations.,active
+SKL-000047,Cloud Modeling,Cloud,Synthetic capability for cloud modeling.,active
+SKL-000048,Cloud Automation,Cloud,Synthetic capability for cloud automation.,active
+SKL-000049,Cloud Architecture,Cloud,Synthetic capability for cloud architecture.,active
+SKL-000050,Cloud Analytics,Cloud,Synthetic capability for cloud analytics.,active
+SKL-000051,Cloud Optimization,Cloud,Synthetic capability for cloud optimization.,active
+SKL-000052,Cloud Governance,Cloud,Synthetic capability for cloud governance.,active
+SKL-000053,Cloud Deployment,Cloud,Synthetic capability for cloud deployment.,active
+SKL-000054,Cloud Research,Cloud,Synthetic capability for cloud research.,active
+SKL-000055,Cloud Integration,Cloud,Synthetic capability for cloud integration.,active
+SKL-000056,Cloud Quality,Cloud,Synthetic capability for cloud quality.,active
+SKL-000057,Cloud Strategy,Cloud,Synthetic capability for cloud strategy.,active
+SKL-000058,Cloud Monitoring,Cloud,Synthetic capability for cloud monitoring.,active
+SKL-000059,Cloud Engineering,Cloud,Synthetic capability for cloud engineering.,active
+SKL-000060,Cloud Operations,Cloud,Synthetic capability for cloud operations.,active
+SKL-000061,Data Engineering Foundations,Data,Synthetic capability for data engineering foundations.,active
+SKL-000062,Data Engineering Modeling,Data,Synthetic capability for data engineering modeling.,active
+SKL-000063,Data Engineering Automation,Data,Synthetic capability for data engineering automation.,active
+SKL-000064,Data Engineering Architecture,Data,Synthetic capability for data engineering architecture.,active
+SKL-000065,Data Engineering Analytics,Data,Synthetic capability for data engineering analytics.,active
+SKL-000066,Data Engineering Optimization,Data,Synthetic capability for data engineering optimization.,active
+SKL-000067,Data Engineering Governance,Data,Synthetic capability for data engineering governance.,active
+SKL-000068,Data Engineering Deployment,Data,Synthetic capability for data engineering deployment.,active
+SKL-000069,Data Engineering Research,Data,Synthetic capability for data engineering research.,active
+SKL-000070,Data Engineering Integration,Data,Synthetic capability for data engineering integration.,active
+SKL-000071,Data Engineering Quality,Data,Synthetic capability for data engineering quality.,active
+SKL-000072,Data Engineering Strategy,Data,Synthetic capability for data engineering strategy.,active
+SKL-000073,Data Engineering Monitoring,Data,Synthetic capability for data engineering monitoring.,active
+SKL-000074,Data Engineering Engineering,Data,Synthetic capability for data engineering engineering.,active
+SKL-000075,Data Engineering Operations,Data,Synthetic capability for data engineering operations.,active
+SKL-000076,Visualization Foundations,Visualization,Synthetic capability for visualization foundations.,active
+SKL-000077,Visualization Modeling,Visualization,Synthetic capability for visualization modeling.,active
+SKL-000078,Visualization Automation,Visualization,Synthetic capability for visualization automation.,active
+SKL-000079,Visualization Architecture,Visualization,Synthetic capability for visualization architecture.,active
+SKL-000080,Visualization Analytics,Visualization,Synthetic capability for visualization analytics.,active
+SKL-000081,Visualization Optimization,Visualization,Synthetic capability for visualization optimization.,active
+SKL-000082,Visualization Governance,Visualization,Synthetic capability for visualization governance.,active
+SKL-000083,Visualization Deployment,Visualization,Synthetic capability for visualization deployment.,active
+SKL-000084,Visualization Research,Visualization,Synthetic capability for visualization research.,active
+SKL-000085,Visualization Integration,Visualization,Synthetic capability for visualization integration.,active
+SKL-000086,Visualization Quality,Visualization,Synthetic capability for visualization quality.,active
+SKL-000087,Visualization Strategy,Visualization,Synthetic capability for visualization strategy.,active
+SKL-000088,Visualization Monitoring,Visualization,Synthetic capability for visualization monitoring.,active
+SKL-000089,Visualization Engineering,Visualization,Synthetic capability for visualization engineering.,active
+SKL-000090,Visualization Operations,Visualization,Synthetic capability for visualization operations.,active
+SKL-000091,Statistics Foundations,Statistics,Synthetic capability for statistics foundations.,active
+SKL-000092,Statistics Modeling,Statistics,Synthetic capability for statistics modeling.,active
+SKL-000093,Statistics Automation,Statistics,Synthetic capability for statistics automation.,active
+SKL-000094,Statistics Architecture,Statistics,Synthetic capability for statistics architecture.,active
+SKL-000095,Statistics Analytics,Statistics,Synthetic capability for statistics analytics.,active
+SKL-000096,Statistics Optimization,Statistics,Synthetic capability for statistics optimization.,active
+SKL-000097,Statistics Governance,Statistics,Synthetic capability for statistics governance.,active
+SKL-000098,Statistics Deployment,Statistics,Synthetic capability for statistics deployment.,active
+SKL-000099,Statistics Research,Statistics,Synthetic capability for statistics research.,active
+SKL-000100,Statistics Integration,Statistics,Synthetic capability for statistics integration.,active
+SKL-000101,Statistics Quality,Statistics,Synthetic capability for statistics quality.,active
+SKL-000102,Statistics Strategy,Statistics,Synthetic capability for statistics strategy.,active
+SKL-000103,Statistics Monitoring,Statistics,Synthetic capability for statistics monitoring.,active
+SKL-000104,Statistics Engineering,Statistics,Synthetic capability for statistics engineering.,active
+SKL-000105,Statistics Operations,Statistics,Synthetic capability for statistics operations.,active
+SKL-000106,Product Foundations,Product,Synthetic capability for product foundations.,active
+SKL-000107,Product Modeling,Product,Synthetic capability for product modeling.,active
+SKL-000108,Product Automation,Product,Synthetic capability for product automation.,active
+SKL-000109,Product Architecture,Product,Synthetic capability for product architecture.,active
+SKL-000110,Product Analytics,Product,Synthetic capability for product analytics.,active
+SKL-000111,Product Optimization,Product,Synthetic capability for product optimization.,active
+SKL-000112,Product Governance,Product,Synthetic capability for product governance.,active
+SKL-000113,Product Deployment,Product,Synthetic capability for product deployment.,active
+SKL-000114,Product Research,Product,Synthetic capability for product research.,active
+SKL-000115,Product Integration,Product,Synthetic capability for product integration.,active
+SKL-000116,Product Quality,Product,Synthetic capability for product quality.,active
+SKL-000117,Product Strategy,Product,Synthetic capability for product strategy.,active
+SKL-000118,Product Monitoring,Product,Synthetic capability for product monitoring.,active
+SKL-000119,Product Engineering,Product,Synthetic capability for product engineering.,active
+SKL-000120,Product Operations,Product,Synthetic capability for product operations.,active
+SKL-000121,Agile Foundations,Agile,Synthetic capability for agile foundations.,active
+SKL-000122,Agile Modeling,Agile,Synthetic capability for agile modeling.,active
+SKL-000123,Agile Automation,Agile,Synthetic capability for agile automation.,active
+SKL-000124,Agile Architecture,Agile,Synthetic capability for agile architecture.,active
+SKL-000125,Agile Analytics,Agile,Synthetic capability for agile analytics.,active
+SKL-000126,Agile Optimization,Agile,Synthetic capability for agile optimization.,active
+SKL-000127,Agile Governance,Agile,Synthetic capability for agile governance.,active
+SKL-000128,Agile Deployment,Agile,Synthetic capability for agile deployment.,active
+SKL-000129,Agile Research,Agile,Synthetic capability for agile research.,active
+SKL-000130,Agile Integration,Agile,Synthetic capability for agile integration.,active
+SKL-000131,Agile Quality,Agile,Synthetic capability for agile quality.,active
+SKL-000132,Agile Strategy,Agile,Synthetic capability for agile strategy.,active
+SKL-000133,Agile Monitoring,Agile,Synthetic capability for agile monitoring.,active
+SKL-000134,Agile Engineering,Agile,Synthetic capability for agile engineering.,active
+SKL-000135,Agile Operations,Agile,Synthetic capability for agile operations.,active
+SKL-000136,Security Foundations,Security,Synthetic capability for security foundations.,active
+SKL-000137,Security Modeling,Security,Synthetic capability for security modeling.,active
+SKL-000138,Security Automation,Security,Synthetic capability for security automation.,active
+SKL-000139,Security Architecture,Security,Synthetic capability for security architecture.,active
+SKL-000140,Security Analytics,Security,Synthetic capability for security analytics.,active
+SKL-000141,Security Optimization,Security,Synthetic capability for security optimization.,active
+SKL-000142,Security Governance,Security,Synthetic capability for security governance.,active
+SKL-000143,Security Deployment,Security,Synthetic capability for security deployment.,active
+SKL-000144,Security Research,Security,Synthetic capability for security research.,active
+SKL-000145,Security Integration,Security,Synthetic capability for security integration.,active
+SKL-000146,Security Quality,Security,Synthetic capability for security quality.,active
+SKL-000147,Security Strategy,Security,Synthetic capability for security strategy.,active
+SKL-000148,Security Monitoring,Security,Synthetic capability for security monitoring.,active
+SKL-000149,Security Engineering,Security,Synthetic capability for security engineering.,active
+SKL-000150,Security Operations,Security,Synthetic capability for security operations.,active
+SKL-000151,JavaScript Foundations,JavaScript,Synthetic capability for javascript foundations.,active
+SKL-000152,JavaScript Modeling,JavaScript,Synthetic capability for javascript modeling.,active
+SKL-000153,JavaScript Automation,JavaScript,Synthetic capability for javascript automation.,active
+SKL-000154,JavaScript Architecture,JavaScript,Synthetic capability for javascript architecture.,active
+SKL-000155,JavaScript Analytics,JavaScript,Synthetic capability for javascript analytics.,active
+SKL-000156,JavaScript Optimization,JavaScript,Synthetic capability for javascript optimization.,active
+SKL-000157,JavaScript Governance,JavaScript,Synthetic capability for javascript governance.,active
+SKL-000158,JavaScript Deployment,JavaScript,Synthetic capability for javascript deployment.,active
+SKL-000159,JavaScript Research,JavaScript,Synthetic capability for javascript research.,active
+SKL-000160,JavaScript Integration,JavaScript,Synthetic capability for javascript integration.,active
+SKL-000161,JavaScript Quality,JavaScript,Synthetic capability for javascript quality.,active
+SKL-000162,JavaScript Strategy,JavaScript,Synthetic capability for javascript strategy.,active
+SKL-000163,JavaScript Monitoring,JavaScript,Synthetic capability for javascript monitoring.,active
+SKL-000164,JavaScript Engineering,JavaScript,Synthetic capability for javascript engineering.,active
+SKL-000165,JavaScript Operations,JavaScript,Synthetic capability for javascript operations.,active
+SKL-000166,Java Foundations,Java,Synthetic capability for java foundations.,active
+SKL-000167,Java Modeling,Java,Synthetic capability for java modeling.,active
+SKL-000168,Java Automation,Java,Synthetic capability for java automation.,active
+SKL-000169,Java Architecture,Java,Synthetic capability for java architecture.,active
+SKL-000170,Java Analytics,Java,Synthetic capability for java analytics.,active
+SKL-000171,Java Optimization,Java,Synthetic capability for java optimization.,active
+SKL-000172,Java Governance,Java,Synthetic capability for java governance.,active
+SKL-000173,Java Deployment,Java,Synthetic capability for java deployment.,active
+SKL-000174,Java Research,Java,Synthetic capability for java research.,active
+SKL-000175,Java Integration,Java,Synthetic capability for java integration.,active
+SKL-000176,Java Quality,Java,Synthetic capability for java quality.,active
+SKL-000177,Java Strategy,Java,Synthetic capability for java strategy.,active
+SKL-000178,Java Monitoring,Java,Synthetic capability for java monitoring.,active
+SKL-000179,Java Engineering,Java,Synthetic capability for java engineering.,active
+SKL-000180,Java Operations,Java,Synthetic capability for java operations.,active
+SKL-000181,Infrastructure Foundations,Infrastructure,Synthetic capability for infrastructure foundations.,active
+SKL-000182,Infrastructure Modeling,Infrastructure,Synthetic capability for infrastructure modeling.,active
+SKL-000183,Infrastructure Automation,Infrastructure,Synthetic capability for infrastructure automation.,active
+SKL-000184,Infrastructure Architecture,Infrastructure,Synthetic capability for infrastructure architecture.,active
+SKL-000185,Infrastructure Analytics,Infrastructure,Synthetic capability for infrastructure analytics.,active
+SKL-000186,Infrastructure Optimization,Infrastructure,Synthetic capability for infrastructure optimization.,active
+SKL-000187,Infrastructure Governance,Infrastructure,Synthetic capability for infrastructure governance.,active
+SKL-000188,Infrastructure Deployment,Infrastructure,Synthetic capability for infrastructure deployment.,active
+SKL-000189,Infrastructure Research,Infrastructure,Synthetic capability for infrastructure research.,active
+SKL-000190,Infrastructure Integration,Infrastructure,Synthetic capability for infrastructure integration.,active
+SKL-000191,Infrastructure Quality,Infrastructure,Synthetic capability for infrastructure quality.,active
+SKL-000192,Infrastructure Strategy,Infrastructure,Synthetic capability for infrastructure strategy.,active
+SKL-000193,Infrastructure Monitoring,Infrastructure,Synthetic capability for infrastructure monitoring.,active
+SKL-000194,Infrastructure Engineering,Infrastructure,Synthetic capability for infrastructure engineering.,active
+SKL-000195,Infrastructure Operations,Infrastructure,Synthetic capability for infrastructure operations.,active
+SKL-000196,Design Foundations,Design,Synthetic capability for design foundations.,active
+SKL-000197,Design Modeling,Design,Synthetic capability for design modeling.,active
+SKL-000198,Design Automation,Design,Synthetic capability for design automation.,active
+SKL-000199,Design Architecture,Design,Synthetic capability for design architecture.,active
+SKL-000200,Design Analytics,Design,Synthetic capability for design analytics.,active
+SKL-000201,Design Optimization,Design,Synthetic capability for design optimization.,active
+SKL-000202,Design Governance,Design,Synthetic capability for design governance.,active
+SKL-000203,Design Deployment,Design,Synthetic capability for design deployment.,active
+SKL-000204,Design Research,Design,Synthetic capability for design research.,active
+SKL-000205,Design Integration,Design,Synthetic capability for design integration.,active
+SKL-000206,Design Quality,Design,Synthetic capability for design quality.,active
+SKL-000207,Design Strategy,Design,Synthetic capability for design strategy.,active
+SKL-000208,Design Monitoring,Design,Synthetic capability for design monitoring.,active
+SKL-000209,Design Engineering,Design,Synthetic capability for design engineering.,active
+SKL-000210,Design Operations,Design,Synthetic capability for design operations.,active
+SKL-000211,Communication Foundations,Communication,Synthetic capability for communication foundations.,active
+SKL-000212,Communication Modeling,Communication,Synthetic capability for communication modeling.,active
+SKL-000213,Communication Automation,Communication,Synthetic capability for communication automation.,active
+SKL-000214,Communication Architecture,Communication,Synthetic capability for communication architecture.,active
+SKL-000215,Communication Analytics,Communication,Synthetic capability for communication analytics.,active
+SKL-000216,Communication Optimization,Communication,Synthetic capability for communication optimization.,active
+SKL-000217,Communication Governance,Communication,Synthetic capability for communication governance.,active
+SKL-000218,Communication Deployment,Communication,Synthetic capability for communication deployment.,active
+SKL-000219,Communication Research,Communication,Synthetic capability for communication research.,active
+SKL-000220,Communication Integration,Communication,Synthetic capability for communication integration.,active
+SKL-000221,Communication Quality,Communication,Synthetic capability for communication quality.,active
+SKL-000222,Communication Strategy,Communication,Synthetic capability for communication strategy.,active
+SKL-000223,Communication Monitoring,Communication,Synthetic capability for communication monitoring.,active
+SKL-000224,Communication Engineering,Communication,Synthetic capability for communication engineering.,active
+SKL-000225,Communication Operations,Communication,Synthetic capability for communication operations.,active
+SKL-000226,Testing Foundations,Testing,Synthetic capability for testing foundations.,active
+SKL-000227,Testing Modeling,Testing,Synthetic capability for testing modeling.,active
+SKL-000228,Testing Automation,Testing,Synthetic capability for testing automation.,active
+SKL-000229,Testing Architecture,Testing,Synthetic capability for testing architecture.,active
+SKL-000230,Testing Analytics,Testing,Synthetic capability for testing analytics.,active
+SKL-000231,Testing Optimization,Testing,Synthetic capability for testing optimization.,active
+SKL-000232,Testing Governance,Testing,Synthetic capability for testing governance.,active
+SKL-000233,Testing Deployment,Testing,Synthetic capability for testing deployment.,active
+SKL-000234,Testing Research,Testing,Synthetic capability for testing research.,active
+SKL-000235,Testing Integration,Testing,Synthetic capability for testing integration.,active
+SKL-000236,Testing Quality,Testing,Synthetic capability for testing quality.,active
+SKL-000237,Testing Strategy,Testing,Synthetic capability for testing strategy.,active
+SKL-000238,Testing Monitoring,Testing,Synthetic capability for testing monitoring.,active
+SKL-000239,Testing Engineering,Testing,Synthetic capability for testing engineering.,active
+SKL-000240,Testing Operations,Testing,Synthetic capability for testing operations.,active
+SKL-000241,Natural Language Processing Foundations,Natural,Synthetic capability for natural language processing foundations.,active
+SKL-000242,Natural Language Processing Modeling,Natural,Synthetic capability for natural language processing modeling.,active
+SKL-000243,Natural Language Processing Automation,Natural,Synthetic capability for natural language processing automation.,active
+SKL-000244,Natural Language Processing Architecture,Natural,Synthetic capability for natural language processing architecture.,active
+SKL-000245,Natural Language Processing Analytics,Natural,Synthetic capability for natural language processing analytics.,active
+SKL-000246,Natural Language Processing Optimization,Natural,Synthetic capability for natural language processing optimization.,active
+SKL-000247,Natural Language Processing Governance,Natural,Synthetic capability for natural language processing governance.,active
+SKL-000248,Natural Language Processing Deployment,Natural,Synthetic capability for natural language processing deployment.,active
+SKL-000249,Natural Language Processing Research,Natural,Synthetic capability for natural language processing research.,active
+SKL-000250,Natural Language Processing Integration,Natural,Synthetic capability for natural language processing integration.,active
+SKL-000251,Natural Language Processing Quality,Natural,Synthetic capability for natural language processing quality.,active
+SKL-000252,Natural Language Processing Strategy,Natural,Synthetic capability for natural language processing strategy.,active
+SKL-000253,Natural Language Processing Monitoring,Natural,Synthetic capability for natural language processing monitoring.,active
+SKL-000254,Natural Language Processing Engineering,Natural,Synthetic capability for natural language processing engineering.,active
+SKL-000255,Natural Language Processing Operations,Natural,Synthetic capability for natural language processing operations.,active
+SKL-000256,Databases Foundations,Databases,Synthetic capability for databases foundations.,active
+SKL-000257,Databases Modeling,Databases,Synthetic capability for databases modeling.,active
+SKL-000258,Databases Automation,Databases,Synthetic capability for databases automation.,active
+SKL-000259,Databases Architecture,Databases,Synthetic capability for databases architecture.,active
+SKL-000260,Databases Analytics,Databases,Synthetic capability for databases analytics.,active
+SKL-000261,Databases Optimization,Databases,Synthetic capability for databases optimization.,active
+SKL-000262,Databases Governance,Databases,Synthetic capability for databases governance.,active
+SKL-000263,Databases Deployment,Databases,Synthetic capability for databases deployment.,active
+SKL-000264,Databases Research,Databases,Synthetic capability for databases research.,active
+SKL-000265,Databases Integration,Databases,Synthetic capability for databases integration.,active
+SKL-000266,Databases Quality,Databases,Synthetic capability for databases quality.,active
+SKL-000267,Databases Strategy,Databases,Synthetic capability for databases strategy.,active
+SKL-000268,Databases Monitoring,Databases,Synthetic capability for databases monitoring.,active
+SKL-000269,Databases Engineering,Databases,Synthetic capability for databases engineering.,active
+SKL-000270,Databases Operations,Databases,Synthetic capability for databases operations.,active
+SKL-000271,DevOps Foundations,DevOps,Synthetic capability for devops foundations.,active
+SKL-000272,DevOps Modeling,DevOps,Synthetic capability for devops modeling.,active
+SKL-000273,DevOps Automation,DevOps,Synthetic capability for devops automation.,active
+SKL-000274,DevOps Architecture,DevOps,Synthetic capability for devops architecture.,active
+SKL-000275,DevOps Analytics,DevOps,Synthetic capability for devops analytics.,active
+SKL-000276,DevOps Optimization,DevOps,Synthetic capability for devops optimization.,active
+SKL-000277,DevOps Governance,DevOps,Synthetic capability for devops governance.,active
+SKL-000278,DevOps Deployment,DevOps,Synthetic capability for devops deployment.,active
+SKL-000279,DevOps Research,DevOps,Synthetic capability for devops research.,active
+SKL-000280,DevOps Integration,DevOps,Synthetic capability for devops integration.,active
+SKL-000281,DevOps Quality,DevOps,Synthetic capability for devops quality.,active
+SKL-000282,DevOps Strategy,DevOps,Synthetic capability for devops strategy.,active
+SKL-000283,DevOps Monitoring,DevOps,Synthetic capability for devops monitoring.,active
+SKL-000284,DevOps Engineering,DevOps,Synthetic capability for devops engineering.,active
+SKL-000285,DevOps Operations,DevOps,Synthetic capability for devops operations.,active
+SKL-000286,AI Foundations,AI,Synthetic capability for ai foundations.,active
+SKL-000287,AI Modeling,AI,Synthetic capability for ai modeling.,active
+SKL-000288,AI Automation,AI,Synthetic capability for ai automation.,active
+SKL-000289,AI Architecture,AI,Synthetic capability for ai architecture.,active
+SKL-000290,AI Analytics,AI,Synthetic capability for ai analytics.,active
+SKL-000291,AI Optimization,AI,Synthetic capability for ai optimization.,active
+SKL-000292,AI Governance,AI,Synthetic capability for ai governance.,active
+SKL-000293,AI Deployment,AI,Synthetic capability for ai deployment.,active
+SKL-000294,AI Research,AI,Synthetic capability for ai research.,active
+SKL-000295,AI Integration,AI,Synthetic capability for ai integration.,active
+SKL-000296,AI Quality,AI,Synthetic capability for ai quality.,active
+SKL-000297,AI Strategy,AI,Synthetic capability for ai strategy.,active
+SKL-000298,AI Monitoring,AI,Synthetic capability for ai monitoring.,active
+SKL-000299,AI Engineering,AI,Synthetic capability for ai engineering.,active
+SKL-000300,AI Operations,AI,Synthetic capability for ai operations.,active

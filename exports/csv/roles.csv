@@ -1,0 +1,16 @@
+role_id,name,family,description,lifecycle_state
+ROLE-001,Data Analyst,Data,Workforce role in the data family.,active
+ROLE-002,Data Engineer,Data,Workforce role in the data family.,active
+ROLE-003,Data Scientist,Data,Workforce role in the data family.,active
+ROLE-004,Machine Learning Engineer,AI,Workforce role in the ai family.,active
+ROLE-005,AI Product Manager,Product,Workforce role in the product family.,active
+ROLE-006,Backend Engineer,Engineering,Workforce role in the engineering family.,active
+ROLE-007,Frontend Engineer,Engineering,Workforce role in the engineering family.,active
+ROLE-008,Full Stack Engineer,Engineering,Workforce role in the engineering family.,active
+ROLE-009,Cloud Architect,Cloud,Workforce role in the cloud family.,active
+ROLE-010,DevOps Engineer,Cloud,Workforce role in the cloud family.,active
+ROLE-011,Cybersecurity Analyst,Security,Workforce role in the security family.,active
+ROLE-012,UX Designer,Design,Workforce role in the design family.,active
+ROLE-013,Product Designer,Design,Workforce role in the design family.,active
+ROLE-014,Business Analyst,Business,Workforce role in the business family.,active
+ROLE-015,Project Manager,Delivery,Workforce role in the delivery family.,active

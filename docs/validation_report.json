@@ -1,0 +1,143 @@
+{
+  "status": "PASS",
+  "total_records_checked": 645931,
+  "passed_checks": 13,
+  "failed_checks": 0,
+  "identified_anomalies": [
+    {
+      "issue_type": "allocation_exceeds_availability",
+      "entity_type": "Allocation",
+      "entity_id": "ALLOC-2026-004224",
+      "expected_detection": "Allocated weekly hours exceed contracted weekly capacity."
+    },
+    {
+      "issue_type": "overlapping_projects",
+      "entity_type": "Allocation",
+      "entity_id": "ALLOC-2026-004226",
+      "pair_id": "ALLOC-2026-004225|ALLOC-2026-004226",
+      "expected_detection": "One employee is assigned to distinct projects over overlapping dates."
+    },
+    {
+      "issue_type": "stale_skill_current",
+      "entity_type": "EmployeeSkill",
+      "entity_id": "EMP-000001-SKL-000003",
+      "expected_detection": "Skill verification older than 365 days or expired."
+    },
+    {
+      "issue_type": "demand_double_counted",
+      "entity_type": "DemandImportEvent",
+      "entity_id": "DME-DUP-00000001",
+      "expected_detection": "Repeated source reference is deduplicated by demand_id."
+    }
+  ],
+  "expected_anomaly_count": 4,
+  "detected_expected_anomalies": 4,
+  "unexpected_anomaly_findings": 0,
+  "skill_gaps_in_window": 91,
+  "checks": [
+    {
+      "name": "primary_key_uniqueness",
+      "records_checked": 123897,
+      "failed": 0,
+      "passed": 123897,
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "deterministic_identifier_formats",
+      "records_checked": 19049,
+      "failed": 0,
+      "passed": 19049,
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "foreign_key_integrity",
+      "records_checked": 114718,
+      "failed": 0,
+      "passed": 114718,
+      "status": "PASS",
+      "detail": "Checked SQLite PRAGMA foreign_key_check."
+    },
+    {
+      "name": "date_ordering_and_allocation_validity",
+      "records_checked": 114718,
+      "failed": 0,
+      "passed": 114718,
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "skill_verification_date_order",
+      "records_checked": 34627,
+      "failed": 0,
+      "passed": 34627,
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "capacity_reconciliation",
+      "records_checked": 60000,
+      "failed": 0,
+      "passed": 60000,
+      "status": "PASS",
+      "detail": "Effective capacity is gross monthly capacity less non-negative leave hours."
+    },
+    {
+      "name": "allowed_enumerations",
+      "records_checked": 41154,
+      "failed": 0,
+      "passed": 41154,
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "duplicate_business_records",
+      "records_checked": 114718,
+      "failed": 0,
+      "passed": 114718,
+      "status": "PASS",
+      "detail": "Repeated source-import evidence is evaluated separately as a labelled anomaly."
+    },
+    {
+      "name": "demand_validity_and_weekly_horizon",
+      "records_checked": 9023,
+      "failed": 0,
+      "passed": 9023,
+      "status": "PASS",
+      "detail": "52 distinct weekly periods; expected 52."
+    },
+    {
+      "name": "demand_aggregation",
+      "records_checked": 9023,
+      "failed": 0,
+      "passed": 9023,
+      "status": "PASS",
+      "detail": "Project, role, and skill group totals each reconcile to the unique demand-plan total."
+    },
+    {
+      "name": "utilization_calculation",
+      "records_checked": 5000,
+      "failed": 0,
+      "passed": 5000,
+      "status": "PASS",
+      "detail": "Allocated hours / effective available capacity \u00d7 100; zero capacity yields 0%."
+    },
+    {
+      "name": "lifecycle_transitions",
+      "records_checked": 0,
+      "failed": 0,
+      "passed": 0,
+      "status": "PASS",
+      "detail": "Valid transitions are checked for status_transition AuditEvent records; no history is fabricated."
+    },
+    {
+      "name": "injected_anomaly_detection",
+      "records_checked": 4,
+      "failed": 0,
+      "passed": 4,
+      "status": "PASS",
+      "detail": "4/4 labelled cases detected; 0 additional data-driven findings. Expected cases are not ordinary integrity failures."
+    }
+  ]
+}

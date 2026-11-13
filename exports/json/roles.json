@@ -1,0 +1,107 @@
+[
+  {
+    "role_id": "ROLE-001",
+    "name": "Data Analyst",
+    "family": "Data",
+    "description": "Workforce role in the data family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-002",
+    "name": "Data Engineer",
+    "family": "Data",
+    "description": "Workforce role in the data family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-003",
+    "name": "Data Scientist",
+    "family": "Data",
+    "description": "Workforce role in the data family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-004",
+    "name": "Machine Learning Engineer",
+    "family": "AI",
+    "description": "Workforce role in the ai family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-005",
+    "name": "AI Product Manager",
+    "family": "Product",
+    "description": "Workforce role in the product family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-006",
+    "name": "Backend Engineer",
+    "family": "Engineering",
+    "description": "Workforce role in the engineering family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-007",
+    "name": "Frontend Engineer",
+    "family": "Engineering",
+    "description": "Workforce role in the engineering family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-008",
+    "name": "Full Stack Engineer",
+    "family": "Engineering",
+    "description": "Workforce role in the engineering family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-009",
+    "name": "Cloud Architect",
+    "family": "Cloud",
+    "description": "Workforce role in the cloud family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-010",
+    "name": "DevOps Engineer",
+    "family": "Cloud",
+    "description": "Workforce role in the cloud family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-011",
+    "name": "Cybersecurity Analyst",
+    "family": "Security",
+    "description": "Workforce role in the security family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-012",
+    "name": "UX Designer",
+    "family": "Design",
+    "description": "Workforce role in the design family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-013",
+    "name": "Product Designer",
+    "family": "Design",
+    "description": "Workforce role in the design family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-014",
+    "name": "Business Analyst",
+    "family": "Business",
+    "description": "Workforce role in the business family.",
+    "lifecycle_state": "active"
+  },
+  {
+    "role_id": "ROLE-015",
+    "name": "Project Manager",
+    "family": "Delivery",
+    "description": "Workforce role in the delivery family.",
+    "lifecycle_state": "active"
+  }
+]

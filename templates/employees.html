@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Employees{% endblock %}
+{% block page_heading %}Employee directory{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>People and capability</h2><p>Search employee profiles, role, proficiency evidence and capacity.</p></div><span class="date-pill">{{ pagination.total }} employees</span></section>
+<section class="panel">
+  <form class="filter-form" method="get"><label for="employee-search">Search employees</label><input id="employee-search" name="q" value="{{ search }}" placeholder="Name, employee ID, or role"><button class="button" type="submit">Search</button></form>
+  <div class="table-scroll"><table><thead><tr><th>Employee</th><th>Role</th><th>Experience</th><th>Schedule</th><th>Status</th><th></th></tr></thead><tbody>
+  {% for employee in pagination.items %}<tr><td><a class="table-link" href="{{ url_for('employee_detail', employee_id=employee.employee_id) }}">{{ employee.full_name }}</a><small>{{ employee.employee_id }}</small></td><td>{{ employee.role.name }}</td><td>{{ employee.experience_years }} yrs</td><td>{{ employee.employment_type|replace('_',' ') }} · {{ employee.weekly_hours|int }} hrs/wk</td><td><span class="status-tag">{{ employee.status }}</span></td><td><a href="{{ url_for('employee_detail', employee_id=employee.employee_id) }}">View →</a></td></tr>
+  {% else %}<tr><td colspan="6" class="empty-state">No employees match this search.</td></tr>{% endfor %}
+  </tbody></table></div>
+  <div class="pagination"><span>Page {{ pagination.page }} of {{ pagination.pages or 1 }}</span><div>{% if pagination.has_prev %}<a class="button button-light" href="{{ url_for('employees', q=search, page=pagination.prev_num) }}">Previous</a>{% endif %}{% if pagination.has_next %}<a class="button button-light" href="{{ url_for('employees', q=search, page=pagination.next_num) }}">Next</a>{% endif %}</div></div>
+</section>
+{% endblock %}

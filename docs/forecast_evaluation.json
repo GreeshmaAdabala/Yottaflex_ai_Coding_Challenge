@@ -1,0 +1,56 @@
+{
+  "role": {
+    "metrics": {
+      "test_period_start": "2026-10-15",
+      "baseline_moving_average": {
+        "mae": 214.897,
+        "rmse": 256.462,
+        "wape_pct": 40.174
+      },
+      "random_forest": {
+        "mae": 529.558,
+        "rmse": 618.524,
+        "wape_pct": 99.0
+      },
+      "lower_mae_model": "moving_average",
+      "wape_zero_demand_rule": "Returns 0 when total test demand and error are both zero."
+    },
+    "note": "Historical targets are synthetic planned demand, not actual observed demand. The model uses a chronological holdout; forward forecasts assume recent patterns persist and do not incorporate future project changes."
+  },
+  "project": {
+    "metrics": {
+      "test_period_start": "2026-10-15",
+      "baseline_moving_average": {
+        "mae": 13.99,
+        "rmse": 29.33,
+        "wape_pct": 87.179
+      },
+      "random_forest": {
+        "mae": 29.302,
+        "rmse": 41.082,
+        "wape_pct": 182.599
+      },
+      "lower_mae_model": "moving_average",
+      "wape_zero_demand_rule": "Returns 0 when total test demand and error are both zero."
+    },
+    "note": "Historical targets are synthetic planned demand, not actual observed demand. The model uses a chronological holdout; forward forecasts assume recent patterns persist and do not incorporate future project changes."
+  },
+  "skill": {
+    "metrics": {
+      "test_period_start": "2026-10-15",
+      "baseline_moving_average": {
+        "mae": 33.18,
+        "rmse": 56.767,
+        "wape_pct": 64.097
+      },
+      "random_forest": {
+        "mae": 72.273,
+        "rmse": 104.354,
+        "wape_pct": 139.616
+      },
+      "lower_mae_model": "moving_average",
+      "wape_zero_demand_rule": "Returns 0 when total test demand and error are both zero."
+    },
+    "note": "Historical targets are synthetic planned demand, not actual observed demand. The model uses a chronological holdout; forward forecasts assume recent patterns persist and do not incorporate future project changes."
+  }
+}

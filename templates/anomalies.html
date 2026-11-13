@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Anomaly monitor{% endblock %}
+{% block page_heading %}Anomaly monitor{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>Data quality and scenario detection</h2><p>Operational checks run independently; ground truth is joined only for evaluation and display.</p></div><span class="date-pill">{{ matched_count }} / {{ expected_count }} labelled scenarios matched</span></section>
+<section class="panel"><div class="panel-heading"><div><h2>Detected findings</h2><p>Allocation capacity, skill currency, demand duplicates and project overlaps</p></div></div>
+  <div class="table-scroll"><table><thead><tr><th>Issue</th><th>Affected record</th><th>Detection</th><th>Ground truth</th><th>Reference detail</th></tr></thead><tbody>
+  {% for item in findings %}<tr><td><span class="tag {% if item.ground_truth_match %}tag-critical{% else %}tag-low{% endif %}">{{ item.issue_type|replace('_',' ') }}</span></td><td><strong>{{ item.entity_type }}</strong><small>{{ item.entity_id }}</small></td><td>{{ item.expected_detection }}</td><td>{% if item.ground_truth_match %}<span class="status-tag">Matched</span>{% else %}<span class="muted">Additional finding</span>{% endif %}</td><td>{{ item.details or 'Not a labelled injection' }}</td></tr>
+  {% else %}<tr><td colspan="5" class="empty-state">No anomalies detected.</td></tr>{% endfor %}
+  </tbody></table></div>
+</section>
+{% endblock %}

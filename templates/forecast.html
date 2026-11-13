@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Demand forecast{% endblock %}
+{% block page_heading %}Demand forecast{% endblock %}
+{% block content %}
+<section class="page-intro"><div><h2>Time-based forecast evaluation</h2><p>Compare a trailing moving average baseline with a Random Forest regressor.</p></div><form class="inline-filter" method="get"><label for="dimension">Forecast by</label><select id="dimension" name="dimension" onchange="this.form.submit()"><option value="role" {% if dimension=='role' %}selected{% endif %}>Role</option><option value="project" {% if dimension=='project' %}selected{% endif %}>Project</option><option value="skill" {% if dimension=='skill' %}selected{% endif %}>Skill</option></select></form></section>
+<section class="metric-grid metric-grid-three">
+  {% for model_name, model_metrics in forecast.metrics.items() if model_metrics is mapping %}
+  <article class="metric-card"><span>{{ model_name|replace('_',' ')|title }}</span><strong>{{ model_metrics.mae }}</strong><small>MAE · RMSE {{ model_metrics.rmse }} · WAPE {{ model_metrics.wape_pct }}%</small></article>
+  {% endfor %}
+  <article class="metric-card"><span>Model comparison</span><strong>{{ forecast.metrics.lower_mae_model|replace('_',' ')|title }}</strong><small>Lower MAE on the chronological holdout</small></article>
+</section>
+<section class="panel"><div class="panel-heading"><div><h2>{{ dimension|title }}-level weekly series</h2><p>Historical plans, holdout predictions and future predictions</p></div><span class="date-pill">8-week outlook</span></div>
+  <div class="chart-wrap"><script src="{{ url_for('plotly_js') }}"></script>{{ chart|safe }}</div>
+  <p class="chart-note">{{ forecast.note }}</p>
+</section>
+<section class="panel"><div class="panel-heading"><div><h2>Forecast rows</h2><p>Actual observed demand is intentionally null; no actuals were provided.</p></div></div>
+  <p class="muted">Recent history, holdout backtests, and the 8-week future forecast for the six highest-demand groups.</p>
+  <div class="table-scroll"><table><thead><tr><th>Group</th><th>Week</th><th>Record type</th><th>Synthetic historical</th><th>Actual observed</th><th>Moving average</th><th>Random Forest</th></tr></thead><tbody>
+  {% for row in forecast_rows %}<tr><td>{{ row.key }}</td><td>{{ row.period_start }}</td><td>{{ row.record_type|replace('_',' ') }}</td><td>{{ row.synthetic_historical_demand if row.synthetic_historical_demand is not none else '—' }}</td><td>—</td><td>{{ row.moving_average_forecast if row.moving_average_forecast is not none else '—' }}</td><td>{{ row.random_forest_forecast if row.random_forest_forecast is not none else '—' }}</td></tr>{% endfor %}
+  </tbody></table></div>
+</section>
+{% endblock %}
