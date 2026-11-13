@@ -8,7 +8,7 @@ __pycache__/
 htmlcov/
 
 # Local database, secrets, and editor state
-*.db
+
 *.db-journal
 .env
 .env.*
