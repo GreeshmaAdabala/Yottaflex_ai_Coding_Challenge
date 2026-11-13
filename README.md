@@ -27,7 +27,7 @@ See [architecture](docs/architecture.md), [data dictionary](docs/data_dictionary
 - [User Guide](USER_GUIDE.md) – Step-by-step instructions for using the application.
 ## Project Resources
 
-- [Application Workflow (PDF)](Application_Workflow_pdf.pdf) – Step-by-step overview of the application workflow.
+-  [Application Screenshots](APPLICATION_SCREENSHOTS.md) – Visual walkthrough of the application's major features.
 - [Project Explanation Video](ProjectExplanationVideo/) – Video demonstration and explanation of the project.
 - [Pytest Cases and Screenshots](pytest%20cases/) – Test case evidence and screenshots.
 - [Workforce Database](workforce.db) – SQLite database containing the project tables and synthetic workforce data.
