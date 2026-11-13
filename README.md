@@ -25,9 +25,12 @@ See [architecture](docs/architecture.md), [data dictionary](docs/data_dictionary
 ## Documentation
 
 - [User Guide](USER_GUIDE.md) – Step-by-step instructions for using the application.
-- [ApplicationWorkflow] (Application_Workflow_pdf) - Step-by-step application workflow
--[ProjectExplanationVideo] (video explanation/1,2) - Step-by-step application explanation
--[PytestCasesScreenshots] (pytest cases) - about test cases
+## Project Resources
+
+- [Application Workflow (PDF)](Application_Workflow_pdf.pdf) – Step-by-step overview of the application workflow.
+- [Project Explanation Video](ProjectExplanationVideo/) – Video demonstration and explanation of the project.
+- [Pytest Cases and Screenshots](pytest%20cases/) – Test case evidence and screenshots.
+- [Workforce Database](workforce.db) – SQLite database containing the project tables and synthetic workforce data.
  Workforce.db to review or to see the tables
  
 ## Local setup (Windows PowerShell)
