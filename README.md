@@ -40,6 +40,17 @@ Both videos are available through the links below for reviewing the application 
 1. **[Project Demonstration – Video 1](https://drive.google.com/file/d/1-Imae938pGDlSNlmE__5UWHqCsmAVu4Q/view?usp=drive_link)**
 2. **[Project Demonstration – Video 2](https://drive.google.com/file/d/1xCafe2MpsxhjSohDMIZHPdk4TpF6YJPT/view?usp=drive_link)**
 
+## Project Demonstration Videos
+
+The project demonstration videos are hosted on Google Drive because their large file sizes prevent them from being conveniently viewed directly on GitHub.
+
+Both videos are available through the links below for reviewing the application workflow, functionality, and implementation.
+
+1. **[Project Demonstration – Video 1](https://drive.google.com/file/d/1-Imae938pGDlSNlmE__5UWHqCsmAVu4Q/view?usp=drive_link)**
+2. **[Project Demonstration – Video 2](https://drive.google.com/file/d/1xCafe2MpsxhjSohDMIZHPdk4TpF6YJPT/view?usp=drive_link)**
+
+
+## Database and Data Management
 
 The application uses SQLite as its primary database for storing and managing workforce intelligence data.
 
@@ -49,7 +60,6 @@ The application uses SQLite as its primary database for storing and managing wor
 **Data Accessibility:** The `exports/` folder provides an easy way to review and explore the data from all 14 tables individually, without downloading the complete SQLite database.
 
 **Note:** GitHub does not display the contents of binary database files directly in the browser. The `workforce.db` file can be downloaded and inspected using an SQLite-compatible database viewer.
- 
 ## Local setup (Windows PowerShell)
 
 ```powershell
