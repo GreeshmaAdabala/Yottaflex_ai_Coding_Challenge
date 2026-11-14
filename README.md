@@ -27,11 +27,20 @@ See [architecture](docs/architecture.md), [data dictionary](docs/data_dictionary
 - [User Guide](USER_GUIDE.md) – Step-by-step instructions for using the application.
 ## Project Resources
 - [Application Screenshots](APPLICATION_SCREENSHOTS.md) – View all 14 application screenshots.
-- [Project Explanation Video](ProjectExplanationVideo/) – Video demonstration and explanation of the project.
 - [Pytest Cases and Screenshots](pytest%20cases/) – Test case evidence and screenshots.
 - [Workforce Database](workforce.db) – SQLite database containing the project tables and synthetic workforce data.
  Workforce.db to review or to see the tables
 
+## Project Demonstration Videos
+
+The project demonstration videos are hosted on Google Drive because their large file sizes prevent them from being conveniently viewed directly on GitHub.
+
+Both videos are available through the links below for reviewing the application workflow, functionality, and implementation.
+
+1. **[Project Demonstration – Video 1](https://drive.google.com/file/d/1-Imae938pGDlSNlmE__5UWHqCsmAVu4Q/view?usp=drive_link)**
+2. **[Project Demonstration – Video 2](https://drive.google.com/file/d/1xCafe2MpsxhjSohDMIZHPdk4TpF6YJPT/view?usp=drive_link)**
+
+*Note: Both videos can be accessed through the provided Google Drive links. Please ensure that the sharing permissions are set to "Anyone with the link – Viewer".*
 ## Database and Data Management
 
 The application uses SQLite as its primary database for storing and managing workforce intelligence data.
