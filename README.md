@@ -31,14 +31,6 @@ See [architecture](docs/architecture.md), [data dictionary](docs/data_dictionary
 - [Workforce Database](workforce.db) – SQLite database containing the project tables and synthetic workforce data.
  Workforce.db to review or to see the tables
 
-## Project Demonstration Videos
-
-The project demonstration videos are hosted on Google Drive because their large file sizes prevent them from being conveniently viewed directly on GitHub.
-
-Both videos are available through the links below for reviewing the application workflow, functionality, and implementation.
-
-1. **[Project Demonstration – Video 1](https://drive.google.com/file/d/1-Imae938pGDlSNlmE__5UWHqCsmAVu4Q/view?usp=drive_link)**
-2. **[Project Demonstration – Video 2](https://drive.google.com/file/d/1xCafe2MpsxhjSohDMIZHPdk4TpF6YJPT/view?usp=drive_link)**
 
 ## Project Demonstration Videos
 
