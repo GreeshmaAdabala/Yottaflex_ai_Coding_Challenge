@@ -40,8 +40,6 @@ Both videos are available through the links below for reviewing the application 
 1. **[Project Demonstration – Video 1](https://drive.google.com/file/d/1-Imae938pGDlSNlmE__5UWHqCsmAVu4Q/view?usp=drive_link)**
 2. **[Project Demonstration – Video 2](https://drive.google.com/file/d/1xCafe2MpsxhjSohDMIZHPdk4TpF6YJPT/view?usp=drive_link)**
 
-*Note: Both videos can be accessed through the provided Google Drive links. Please ensure that the sharing permissions are set to "Anyone with the link – Viewer".*
-## Database and Data Management
 
 The application uses SQLite as its primary database for storing and managing workforce intelligence data.
 
